@@ -1,0 +1,674 @@
+hospitalization_year,department_name,ken_code,insurance_provider,hospitalizations_count,total_base_cost,total_extra_charge,total_revenue
+2024,Cardiology,Α10Χ,Uninsured,1,4627.00,0.00,4627.00
+2024,Cardiology,Γ09Α,EFKA,1,418.00,836.00,1254.00
+2024,Cardiology,Ε01Α,"Private Insurance",1,28907.00,0.00,28907.00
+2024,Cardiology,Ε06Χα,"Bank Employee Fund",1,20597.00,0.00,20597.00
+2024,Cardiology,Ε06Χα,"Private Insurance",2,41194.00,0.00,41194.00
+2024,Cardiology,Ε08Χ,"Military Fund",1,3683.00,0.00,3683.00
+2024,Cardiology,Κ45Μα,"Military Fund",1,2428.00,0.00,2428.00
+2024,Cardiology,Λ21Α,EFKA,1,420.00,1260.00,1680.00
+2024,Cardiology,Μ12Χ,"Bank Employee Fund",1,1665.00,0.00,1665.00
+2024,Cardiology,Ν12Μ,"Military Fund",1,5390.00,0.00,5390.00
+2024,Cardiology,Ν21Χ,"Military Fund",1,1885.00,0.00,1885.00
+2024,Cardiology,Ν25Α,"Military Fund",1,482.00,1928.00,2410.00
+2024,Cardiology,Ν25Α,Uninsured,1,482.00,3133.00,3615.00
+2024,Cardiology,Ν27Χ,"Military Fund",1,482.00,2249.38,2731.38
+2024,Cardiology,Ν30Α,"Military Fund",1,420.00,1260.00,1680.00
+2024,Cardiology,Ν30Α,"Private Insurance",1,420.00,2940.00,3360.00
+2024,Cardiology,Ν31Χ,"Military Fund",1,280.00,280.00,560.00
+2024,Cardiology,Ν35Α,"Private Insurance",1,350.00,2800.00,3150.00
+2024,Cardiology,Ν35Α,Uninsured,1,350.00,700.00,1050.00
+2024,Cardiology,Ν38Χ,Uninsured,2,1758.00,2856.75,4614.75
+2024,Cardiology,Ν41Χ,Uninsured,1,693.00,462.00,1155.00
+2024,Cardiology,Ν68Χ,"Bank Employee Fund",1,565.00,1695.00,2260.00
+2024,Cardiology,Ξ21Χ,"Bank Employee Fund",1,315.00,1575.00,1890.00
+2024,Cardiology,Ο02Α,Uninsured,2,3222.00,5907.00,9129.00
+2024,Cardiology,Ο11Α,Uninsured,1,639.00,6390.00,7029.00
+2024,Cardiology,Ο15Β,"Private Insurance",1,687.00,4122.00,4809.00
+2024,Cardiology,Σ20Χ,EFKA,1,988.00,1317.32,2305.32
+2024,Cardiology,Τ23Α,EFKA,1,7359.00,0.00,7359.00
+2024,Cardiology,Τ25Μα,"Private Insurance",1,5872.00,0.00,5872.00
+2024,Cardiology,Υ22Α,"Private Insurance",1,482.00,2892.00,3374.00
+2024,Cardiology,Ω04Χ,"Private Insurance",1,1934.00,13538.00,15472.00
+2024,Cardiology,Ω12Α,"Private Insurance",1,946.00,8514.00,9460.00
+2024,Cardiology,Ω30Μ,"Private Insurance",2,4576.00,0.00,4576.00
+2024,"Emergency Department",Ε08Χ,Uninsured,2,7366.00,1473.20,8839.20
+2024,"Emergency Department",Ε11Μ,"Bank Employee Fund",1,10704.00,0.00,10704.00
+2024,"Emergency Department",Κ04Χ,EFKA,1,9163.00,0.00,9163.00
+2024,"Emergency Department",Ν01Χ,EFKA,1,1980.00,1584.00,3564.00
+2024,"Emergency Department",Ν21Χ,"Private Insurance",1,1885.00,4901.00,6786.00
+2024,"Emergency Department",Ν27Χ,"Military Fund",1,482.00,1606.70,2088.70
+2024,"Emergency Department",Ν31Χ,"Bank Employee Fund",1,280.00,0.00,280.00
+2024,"Emergency Department",Ν35Α,EFKA,1,350.00,2100.00,2450.00
+2024,"Emergency Department",Ν38Χ,"Private Insurance",1,879.00,439.50,1318.50
+2024,"Emergency Department",Ν41Χ,"Bank Employee Fund",1,693.00,3234.00,3927.00
+2024,"Emergency Department",Ν41Χ,Uninsured,1,693.00,3003.00,3696.00
+2024,"Emergency Department",Ο11Α,EFKA,1,639.00,2556.00,3195.00
+2024,"Emergency Department",Ο21Μ,EFKA,1,934.00,0.00,934.00
+2024,"Emergency Department",Τ26Μβ,"Military Fund",1,2346.00,0.00,2346.00
+2024,"Emergency Department",Υ26Α,"Military Fund",1,440.00,880.00,1320.00
+2024,"Emergency Department",Ω02Μα,Uninsured,1,5420.00,2463.65,7883.65
+2024,"Emergency Department",Ω12Α,"Bank Employee Fund",1,946.00,946.00,1892.00
+2024,"Emergency Department",Ω12Α,EFKA,1,946.00,10406.00,11352.00
+2024,Endocrinology,Β10Α,"Bank Employee Fund",1,220.00,1760.00,1980.00
+2024,Endocrinology,Η40Χ,Uninsured,1,366.00,549.00,915.00
+2024,Endocrinology,Θ09Μ,"Private Insurance",1,4895.00,0.00,4895.00
+2024,Endocrinology,Μ02Μ,EFKA,1,9110.00,0.00,9110.00
+2024,Endocrinology,Μ17Χ,Uninsured,1,1764.00,3528.00,5292.00
+2024,Endocrinology,Μ60Α,"Bank Employee Fund",1,1720.00,491.42,2211.42
+2024,Endocrinology,Ν01Χ,"Private Insurance",1,1980.00,0.00,1980.00
+2024,Endocrinology,Ν03Χ,"Military Fund",1,3990.00,10374.00,14364.00
+2024,Endocrinology,Ν06Χ,Uninsured,2,1938.00,9205.50,11143.50
+2024,Endocrinology,Ν21Χ,EFKA,1,1885.00,4901.00,6786.00
+2024,Endocrinology,Ν28Μ,Uninsured,1,1907.00,0.00,1907.00
+2024,Endocrinology,Ν31Χ,Uninsured,1,280.00,1260.00,1540.00
+2024,Endocrinology,Ο11Α,EFKA,1,639.00,3834.00,4473.00
+2024,Endocrinology,Ο11Α,"Military Fund",1,639.00,6390.00,7029.00
+2024,Endocrinology,Ο11Α,Uninsured,1,639.00,8946.00,9585.00
+2024,Endocrinology,Ο15Β,"Military Fund",2,1374.00,2748.00,4122.00
+2024,Endocrinology,Ο21Μ,"Private Insurance",1,934.00,373.60,1307.60
+2024,Endocrinology,Ω30Μ,"Military Fund",1,2288.00,0.00,2288.00
+2024,Endocrinology,Ω37Α,"Private Insurance",1,254.00,2286.00,2540.00
+2024,Gastroenterology,Ε06Χα,"Private Insurance",2,41194.00,0.00,41194.00
+2024,Gastroenterology,Ε11Μ,EFKA,1,10704.00,0.00,10704.00
+2024,Gastroenterology,Ε11Μ,Uninsured,1,10704.00,0.00,10704.00
+2024,Gastroenterology,Θ20Χ,Uninsured,1,1580.00,0.00,1580.00
+2024,Gastroenterology,Μ05Χ,Uninsured,1,6101.00,0.00,6101.00
+2024,Gastroenterology,Μ13Χ,"Military Fund",1,2083.00,0.00,2083.00
+2024,Gastroenterology,Μ17Χ,EFKA,1,1764.00,0.00,1764.00
+2024,Gastroenterology,Ν03Χ,Uninsured,1,3990.00,798.00,4788.00
+2024,Gastroenterology,Ν21Χ,"Bank Employee Fund",1,1885.00,1131.00,3016.00
+2024,Gastroenterology,Ν25Α,EFKA,1,482.00,3374.00,3856.00
+2024,Gastroenterology,Ν25Α,"Private Insurance",1,482.00,1205.00,1687.00
+2024,Gastroenterology,Ν27Χ,"Private Insurance",1,482.00,1606.70,2088.70
+2024,Gastroenterology,Ν31Χ,"Military Fund",1,280.00,2240.00,2520.00
+2024,Gastroenterology,Ν41Χ,"Military Fund",2,1386.00,1848.00,3234.00
+2024,Gastroenterology,Ο11Α,"Private Insurance",1,639.00,7668.00,8307.00
+2024,Gastroenterology,Ο15Β,"Private Insurance",1,687.00,687.00,1374.00
+2024,Gastroenterology,Ο20Μ,Uninsured,1,1860.00,0.00,1860.00
+2024,Gastroenterology,Φ62Μ,"Private Insurance",1,1183.00,0.00,1183.00
+2024,Gastroenterology,Ω04Χ,Uninsured,1,1934.00,7736.00,9670.00
+2024,"General Surgery",Δ10Α,"Military Fund",1,672.00,6048.00,6720.00
+2024,"General Surgery",Ε01Α,EFKA,1,28907.00,0.00,28907.00
+2024,"General Surgery",Ι20Α,EFKA,1,366.00,1281.00,1647.00
+2024,"General Surgery",Ν01Χ,"Private Insurance",1,1980.00,3960.00,5940.00
+2024,"General Surgery",Ν03Χ,EFKA,1,3990.00,7980.00,11970.00
+2024,"General Surgery",Ν03Χ,Uninsured,1,3990.00,0.00,3990.00
+2024,"General Surgery",Ν07Χ,"Bank Employee Fund",1,1110.00,3885.00,4995.00
+2024,"General Surgery",Ν25Α,"Private Insurance",1,482.00,2651.00,3133.00
+2024,"General Surgery",Ν30Α,Uninsured,1,420.00,2730.00,3150.00
+2024,"General Surgery",Ν35Α,"Bank Employee Fund",1,350.00,5250.00,5600.00
+2024,"General Surgery",Ο02Α,EFKA,1,1611.00,4833.00,6444.00
+2024,"General Surgery",Ο05Α,"Military Fund",1,896.00,6272.00,7168.00
+2024,"General Surgery",Ο11Α,EFKA,1,639.00,4473.00,5112.00
+2024,"General Surgery",Ο11Α,Uninsured,1,639.00,2556.00,3195.00
+2024,"General Surgery",Ο15Β,Uninsured,2,1374.00,16488.00,17862.00
+2024,"General Surgery",Ο21Μ,Uninsured,1,934.00,560.40,1494.40
+2024,"General Surgery",Φ61Α,EFKA,1,280.00,1120.00,1400.00
+2024,"General Surgery",Ω02Μα,Uninsured,1,5420.00,0.00,5420.00
+2024,"General Surgery",Ω12Α,"Private Insurance",1,946.00,4730.00,5676.00
+2024,"Intensive Care Unit",Ε01Α,Uninsured,1,28907.00,0.00,28907.00
+2024,"Intensive Care Unit",Λ26Α,Uninsured,1,257.00,385.50,642.50
+2024,"Intensive Care Unit",Ν01Χ,"Bank Employee Fund",1,1980.00,0.00,1980.00
+2024,"Intensive Care Unit",Ν01Χ,"Military Fund",1,1980.00,0.00,1980.00
+2024,"Intensive Care Unit",Ν03Χ,EFKA,1,3990.00,3192.00,7182.00
+2024,"Intensive Care Unit",Ν06Χ,"Military Fund",1,969.00,6298.50,7267.50
+2024,"Intensive Care Unit",Ν12Μ,"Military Fund",1,5390.00,0.00,5390.00
+2024,"Intensive Care Unit",Ν21Χ,Uninsured,1,1885.00,1131.00,3016.00
+2024,"Intensive Care Unit",Ν41Χ,"Bank Employee Fund",1,693.00,1848.00,2541.00
+2024,"Intensive Care Unit",Ο02Α,Uninsured,1,1611.00,0.00,1611.00
+2024,"Intensive Care Unit",Υ08Μ,"Private Insurance",1,1271.00,1016.80,2287.80
+2024,"Intensive Care Unit",Ω02Μα,"Military Fund",1,5420.00,2463.65,7883.65
+2024,Nephrology,Β05Α,"Private Insurance",1,458.00,3206.00,3664.00
+2024,Nephrology,Ε11Μ,EFKA,1,10704.00,0.00,10704.00
+2024,Nephrology,Θ24Μ,"Military Fund",1,1829.00,0.00,1829.00
+2024,Nephrology,Ν06Χ,"Bank Employee Fund",1,969.00,0.00,969.00
+2024,Nephrology,Ν06Χ,"Private Insurance",1,969.00,7752.00,8721.00
+2024,Nephrology,Ν12Μ,Uninsured,1,5390.00,0.00,5390.00
+2024,Nephrology,Ν28Μ,"Military Fund",1,1907.00,0.00,1907.00
+2024,Nephrology,Ν30Α,EFKA,1,420.00,2730.00,3150.00
+2024,Nephrology,Ν30Α,Uninsured,1,420.00,1470.00,1890.00
+2024,Nephrology,Ν38Χ,"Bank Employee Fund",1,879.00,1538.25,2417.25
+2024,Nephrology,Ο11Α,"Private Insurance",1,639.00,639.00,1278.00
+2024,Nephrology,Ο21Μ,"Bank Employee Fund",2,1868.00,0.00,1868.00
+2024,Nephrology,Χ42Χ,Uninsured,1,1331.00,0.00,1331.00
+2024,Nephrology,Ω02Μα,"Private Insurance",1,5420.00,0.00,5420.00
+2024,Nephrology,Ω04Χ,"Military Fund",1,1934.00,0.00,1934.00
+2024,Nephrology,Ω30Μ,"Military Fund",1,2288.00,2033.76,4321.76
+2024,Nephrology,Ω30Μ,"Private Insurance",1,2288.00,254.22,2542.22
+2024,Neurology,Γ09Α,Uninsured,1,418.00,418.00,836.00
+2024,Neurology,Ε08Χ,"Private Insurance",1,3683.00,2946.40,6629.40
+2024,Neurology,Η07Μ,EFKA,1,4299.00,0.00,4299.00
+2024,Neurology,Η40Χ,"Military Fund",1,366.00,366.00,732.00
+2024,Neurology,Μ07Α,Uninsured,1,5235.00,0.00,5235.00
+2024,Neurology,Ν06Χ,"Military Fund",1,969.00,969.00,1938.00
+2024,Neurology,Ν12Μ,Uninsured,1,5390.00,0.00,5390.00
+2024,Neurology,Ν27Χ,"Bank Employee Fund",1,482.00,0.00,482.00
+2024,Neurology,Ν30Α,"Military Fund",1,420.00,0.00,420.00
+2024,Neurology,Ν31Χ,EFKA,1,280.00,280.00,560.00
+2024,Neurology,Ν35Α,EFKA,1,350.00,3500.00,3850.00
+2024,Neurology,Ν35Α,"Military Fund",1,350.00,2450.00,2800.00
+2024,Neurology,Ο02Α,Uninsured,1,1611.00,6444.00,8055.00
+2024,Neurology,Ο05Α,"Military Fund",1,896.00,8960.00,9856.00
+2024,Neurology,Ο10Α,EFKA,1,650.00,4550.00,5200.00
+2024,Neurology,Ο21Μ,"Military Fund",1,934.00,1494.40,2428.40
+2024,Neurology,Ω04Χ,"Military Fund",1,1934.00,0.00,1934.00
+2024,"Obstetrics and Gynecology",Δ01Μ,Uninsured,1,8557.00,0.00,8557.00
+2024,"Obstetrics and Gynecology",Ε11Μ,Uninsured,2,21408.00,2854.40,24262.40
+2024,"Obstetrics and Gynecology",Θ20Μ,"Military Fund",1,4296.00,0.00,4296.00
+2024,"Obstetrics and Gynecology",Κ03Μ,Uninsured,1,15429.00,0.00,15429.00
+2024,"Obstetrics and Gynecology",Κ45Μα,"Bank Employee Fund",1,2428.00,0.00,2428.00
+2024,"Obstetrics and Gynecology",Λ04Μ,EFKA,1,1807.00,0.00,1807.00
+2024,"Obstetrics and Gynecology",Ν01Χ,"Bank Employee Fund",1,1980.00,3564.00,5544.00
+2024,"Obstetrics and Gynecology",Ν03Χ,Uninsured,2,7980.00,8778.00,16758.00
+2024,"Obstetrics and Gynecology",Ν22Α,Uninsured,1,243.00,486.00,729.00
+2024,"Obstetrics and Gynecology",Ν27Χ,Uninsured,1,482.00,482.01,964.01
+2024,"Obstetrics and Gynecology",Ν30Α,EFKA,1,420.00,2940.00,3360.00
+2024,"Obstetrics and Gynecology",Ν30Α,"Private Insurance",1,420.00,2730.00,3150.00
+2024,"Obstetrics and Gynecology",Ο15Β,EFKA,1,687.00,6870.00,7557.00
+2024,"Obstetrics and Gynecology",Ο15Β,"Private Insurance",1,687.00,1374.00,2061.00
+2024,"Obstetrics and Gynecology",Ο21Μ,"Military Fund",1,934.00,1681.20,2615.20
+2024,"Obstetrics and Gynecology",Τ27Μα,"Private Insurance",1,3076.00,0.00,3076.00
+2024,"Obstetrics and Gynecology",Φ24Χ,EFKA,1,934.00,4203.00,5137.00
+2024,"Obstetrics and Gynecology",Ω04Χ,EFKA,1,1934.00,7736.00,9670.00
+2024,"Obstetrics and Gynecology",Ω04Χ,Uninsured,1,1934.00,15472.00,17406.00
+2024,Oncology,Α26Μα,EFKA,1,2467.00,0.00,2467.00
+2024,Oncology,Α34Μα,"Private Insurance",1,1977.00,0.00,1977.00
+2024,Oncology,Γ08Α,"Private Insurance",1,719.00,1438.00,2157.00
+2024,Oncology,Δ22Χ,"Private Insurance",1,688.00,2752.00,3440.00
+2024,Oncology,Ε01Α,Uninsured,1,28907.00,0.00,28907.00
+2024,Oncology,Ε06Χα,EFKA,1,20597.00,0.00,20597.00
+2024,Oncology,Ε08Χ,"Military Fund",1,3683.00,0.00,3683.00
+2024,Oncology,Ε08Χ,"Private Insurance",1,3683.00,0.00,3683.00
+2024,Oncology,Ε08Χ,Uninsured,1,3683.00,1841.50,5524.50
+2024,Oncology,Μ78Χ,"Bank Employee Fund",1,475.00,0.00,475.00
+2024,Oncology,Ν12Μ,"Military Fund",1,5390.00,0.00,5390.00
+2024,Oncology,Ν21Χ,"Military Fund",1,1885.00,0.00,1885.00
+2024,Oncology,Ν21Χ,Uninsured,1,1885.00,0.00,1885.00
+2024,Oncology,Ν38Χ,EFKA,1,879.00,1098.75,1977.75
+2024,Oncology,Ν38Χ,Uninsured,1,879.00,0.00,879.00
+2024,Oncology,Ο02Α,Uninsured,1,1611.00,1074.00,2685.00
+2024,Oncology,Ο15Β,"Private Insurance",1,687.00,9618.00,10305.00
+2024,Oncology,Ρ05Χ,"Military Fund",1,2140.00,356.67,2496.67
+2024,Oncology,Υ05Χ,"Private Insurance",1,1000.00,999.99,1999.99
+2024,Oncology,Χ41Α,"Military Fund",1,3066.00,0.00,3066.00
+2024,Oncology,Ω02Μα,"Private Insurance",1,5420.00,0.00,5420.00
+2024,Oncology,Ω12Α,EFKA,1,946.00,9460.00,10406.00
+2024,Orthopedics,Δ12Χβ,"Bank Employee Fund",1,1774.00,0.00,1774.00
+2024,Orthopedics,Δ23Μ,"Military Fund",1,965.00,386.00,1351.00
+2024,Orthopedics,Ε06Χα,"Private Insurance",2,41194.00,0.00,41194.00
+2024,Orthopedics,Ε08Χ,"Private Insurance",1,3683.00,0.00,3683.00
+2024,Orthopedics,Ε08Χ,Uninsured,1,3683.00,0.00,3683.00
+2024,Orthopedics,Ε11Μ,"Private Insurance",1,10704.00,0.00,10704.00
+2024,Orthopedics,Θ24Χ,"Military Fund",1,669.00,669.00,1338.00
+2024,Orthopedics,Μ18Α,Uninsured,1,743.00,2972.00,3715.00
+2024,Orthopedics,Μ65Χ,EFKA,1,1222.00,0.00,1222.00
+2024,Orthopedics,Ν01Χ,EFKA,1,1980.00,396.00,2376.00
+2024,Orthopedics,Ν01Χ,"Private Insurance",1,1980.00,1584.00,3564.00
+2024,Orthopedics,Ν03Χ,EFKA,1,3990.00,3192.00,7182.00
+2024,Orthopedics,Ν06Χ,"Bank Employee Fund",1,969.00,6783.00,7752.00
+2024,Orthopedics,Ν06Χ,"Military Fund",1,969.00,0.00,969.00
+2024,Orthopedics,Ν12Μ,"Bank Employee Fund",1,5390.00,0.00,5390.00
+2024,Orthopedics,Ν21Χ,"Bank Employee Fund",1,1885.00,3016.00,4901.00
+2024,Orthopedics,Ν21Χ,EFKA,1,1885.00,0.00,1885.00
+2024,Orthopedics,Ν21Χ,"Private Insurance",1,1885.00,1131.00,3016.00
+2024,Orthopedics,Ν27Χ,"Private Insurance",1,482.00,1124.69,1606.69
+2024,Orthopedics,Ν35Α,"Military Fund",1,350.00,5600.00,5950.00
+2024,Orthopedics,Ν38Χ,"Private Insurance",1,879.00,659.25,1538.25
+2024,Orthopedics,Ν41Χ,Uninsured,1,693.00,693.00,1386.00
+2024,Orthopedics,Ο21Μ,Uninsured,1,934.00,1868.00,2802.00
+2024,Orthopedics,Π03Μ,Uninsured,1,6908.00,0.00,6908.00
+2024,Orthopedics,Φ02Χ,"Military Fund",1,8412.00,0.00,8412.00
+2024,Orthopedics,Χ42Χ,EFKA,1,1331.00,499.14,1830.14
+2024,Orthopedics,Ω02Μα,Uninsured,1,5420.00,0.00,5420.00
+2024,Orthopedics,Ω10Α,Uninsured,1,787.00,1574.00,2361.00
+2024,Orthopedics,Ω30Μ,"Bank Employee Fund",2,4576.00,1016.88,5592.88
+2024,Pediatrics,Γ22Α,Uninsured,1,257.00,2313.00,2570.00
+2024,Pediatrics,Ε01Α,"Bank Employee Fund",1,28907.00,0.00,28907.00
+2024,Pediatrics,Ε01Α,"Military Fund",2,57814.00,0.00,57814.00
+2024,Pediatrics,Θ22Χ,"Private Insurance",1,482.00,1928.00,2410.00
+2024,Pediatrics,Κ13Μ,Uninsured,1,3969.00,0.00,3969.00
+2024,Pediatrics,Κ45Μα,Uninsured,1,2428.00,0.00,2428.00
+2024,Pediatrics,Ν25Α,"Private Insurance",1,482.00,2651.00,3133.00
+2024,Pediatrics,Ν25Α,Uninsured,2,964.00,723.00,1687.00
+2024,Pediatrics,Ν35Α,"Military Fund",1,350.00,350.00,700.00
+2024,Pediatrics,Ν41Χ,"Bank Employee Fund",1,693.00,1848.00,2541.00
+2024,Pediatrics,Ο15Β,EFKA,1,687.00,2061.00,2748.00
+2024,Pediatrics,Ο21Μ,"Bank Employee Fund",1,934.00,2054.80,2988.80
+2024,Pediatrics,Υ04Χα,"Military Fund",1,2361.00,1349.16,3710.16
+2024,Pediatrics,Φ64Μ,"Private Insurance",1,1159.00,0.00,1159.00
+2024,Pediatrics,Ω02Μα,"Bank Employee Fund",1,5420.00,0.00,5420.00
+2024,Pediatrics,Ω02Μα,"Military Fund",1,5420.00,1478.19,6898.19
+2024,Pediatrics,Ω12Α,EFKA,1,946.00,10406.00,11352.00
+2024,Pediatrics,Ω30Μ,"Private Insurance",1,2288.00,0.00,2288.00
+2024,Psychiatry,Γ05Χ,"Military Fund",1,1374.00,0.00,1374.00
+2024,Psychiatry,Γ20Χ,Uninsured,1,755.00,1258.35,2013.35
+2024,Psychiatry,Θ02Μ,"Private Insurance",1,5135.00,513.50,5648.50
+2024,Psychiatry,Θ05Μ,"Military Fund",1,2587.00,0.00,2587.00
+2024,Psychiatry,Κ07Μβ,"Private Insurance",1,7279.00,0.00,7279.00
+2024,Psychiatry,Ν12Μ,"Private Insurance",1,5390.00,0.00,5390.00
+2024,Psychiatry,Ν41Χ,EFKA,1,693.00,3234.00,3927.00
+2024,Psychiatry,Ο11Α,"Bank Employee Fund",1,639.00,3195.00,3834.00
+2024,Psychiatry,Π45Χ,"Private Insurance",1,623.00,623.01,1246.01
+2024,Psychiatry,Χ43Α,"Private Insurance",1,2568.00,0.00,2568.00
+2024,Psychiatry,Ω04Χ,"Bank Employee Fund",1,1934.00,15472.00,17406.00
+2024,Pulmonology,Ε06Χα,Uninsured,1,20597.00,0.00,20597.00
+2024,Pulmonology,Ε11Μ,"Military Fund",1,10704.00,0.00,10704.00
+2024,Pulmonology,Η44Μ,Uninsured,1,1198.00,0.00,1198.00
+2024,Pulmonology,Ν12Μ,"Private Insurance",1,5390.00,0.00,5390.00
+2024,Pulmonology,Ν30Α,EFKA,1,420.00,2100.00,2520.00
+2024,Pulmonology,Ν31Χ,"Military Fund",1,280.00,1260.00,1540.00
+2024,Pulmonology,Ν35Α,EFKA,1,350.00,3500.00,3850.00
+2024,Pulmonology,Ξ01Α,"Military Fund",1,3476.00,0.00,3476.00
+2024,Pulmonology,Ο02Α,"Bank Employee Fund",1,1611.00,2685.00,4296.00
+2024,Pulmonology,Ο02Α,Uninsured,1,1611.00,4296.00,5907.00
+2024,Pulmonology,Ο21Μ,"Military Fund",1,934.00,1681.20,2615.20
+2024,Pulmonology,Ω02Μα,"Bank Employee Fund",1,5420.00,0.00,5420.00
+2024,Pulmonology,Ω12Α,"Military Fund",1,946.00,7568.00,8514.00
+2024,Pulmonology,Ω12Α,Uninsured,1,946.00,13244.00,14190.00
+2024,Radiology,Α01Χ,"Military Fund",1,2712.00,1549.72,4261.72
+2024,Radiology,Ε01Α,EFKA,1,28907.00,0.00,28907.00
+2024,Radiology,Ε01Α,Uninsured,1,28907.00,0.00,28907.00
+2024,Radiology,Ε11Μ,"Bank Employee Fund",1,10704.00,0.00,10704.00
+2024,Radiology,Μ73Μ,EFKA,1,2249.00,0.00,2249.00
+2024,Radiology,Ν12Μ,"Military Fund",1,5390.00,0.00,5390.00
+2024,Radiology,Ν25Α,"Military Fund",1,482.00,3374.00,3856.00
+2024,Radiology,Ν27Χ,Uninsured,1,482.00,482.01,964.01
+2024,Radiology,Ν38Χ,Uninsured,1,879.00,659.25,1538.25
+2024,Radiology,Ο02Α,"Private Insurance",1,1611.00,1074.00,2685.00
+2024,Radiology,Ρ23Α,"Military Fund",1,428.00,1712.00,2140.00
+2024,Radiology,Ω04Χ,"Bank Employee Fund",1,1934.00,4835.00,6769.00
+2024,Radiology,Ω04Χ,"Military Fund",1,1934.00,7736.00,9670.00
+2024,Radiology,Ω12Α,"Private Insurance",1,946.00,0.00,946.00
+2025,Cardiology,Ε01Α,"Private Insurance",1,28907.00,0.00,28907.00
+2025,Cardiology,Ε06Χβ,Uninsured,1,15548.00,0.00,15548.00
+2025,Cardiology,Ε08Χ,"Military Fund",1,3683.00,0.00,3683.00
+2025,Cardiology,Θ09Χα,"Private Insurance",1,2080.00,0.00,2080.00
+2025,Cardiology,Λ20Α,"Private Insurance",1,872.00,290.67,1162.67
+2025,Cardiology,Ν01Χ,Uninsured,1,1980.00,1980.00,3960.00
+2025,Cardiology,Ν02Χ,Uninsured,1,3836.00,0.00,3836.00
+2025,Cardiology,Ν12Μ,"Bank Employee Fund",1,5390.00,0.00,5390.00
+2025,Cardiology,Ν25Α,EFKA,1,482.00,2410.00,2892.00
+2025,Cardiology,Ν27Χ,"Military Fund",1,482.00,1285.36,1767.36
+2025,Cardiology,Ν30Α,"Military Fund",1,420.00,630.00,1050.00
+2025,Cardiology,Ν30Α,"Private Insurance",1,420.00,0.00,420.00
+2025,Cardiology,Ν31Χ,Uninsured,1,280.00,2100.00,2380.00
+2025,Cardiology,Ν35Α,EFKA,1,350.00,3150.00,3500.00
+2025,Cardiology,Ο11Α,"Military Fund",1,639.00,8946.00,9585.00
+2025,Cardiology,Ο21Μ,"Military Fund",1,934.00,2054.80,2988.80
+2025,Cardiology,Σ22Μ,Uninsured,1,1253.00,0.00,1253.00
+2025,Cardiology,Τ04Α,"Private Insurance",1,11997.00,0.00,11997.00
+2025,Cardiology,Ω02Μα,"Military Fund",1,5420.00,2463.65,7883.65
+2025,Cardiology,Ω04Χ,EFKA,1,1934.00,967.00,2901.00
+2025,Cardiology,Ω10Α,Uninsured,1,787.00,4722.00,5509.00
+2025,Cardiology,Ω30Μ,Uninsured,1,2288.00,0.00,2288.00
+2025,Cardiology,Ω35Α,Uninsured,1,265.00,2650.00,2915.00
+2025,"Emergency Department",Β05Α,EFKA,1,458.00,4580.00,5038.00
+2025,"Emergency Department",Β06Μ,"Military Fund",1,1930.00,0.00,1930.00
+2025,"Emergency Department",Ε06Χα,"Bank Employee Fund",1,20597.00,0.00,20597.00
+2025,"Emergency Department",Ε11Μ,"Private Insurance",1,10704.00,0.00,10704.00
+2025,"Emergency Department",Η06Μ,EFKA,1,4646.00,0.00,4646.00
+2025,"Emergency Department",Η08Χ,"Military Fund",1,1273.00,2546.00,3819.00
+2025,"Emergency Department",Κ08Χ,EFKA,1,5561.00,0.00,5561.00
+2025,"Emergency Department",Κ45Χ,"Military Fund",1,521.00,2344.50,2865.50
+2025,"Emergency Department",Μ12Μα,"Bank Employee Fund",1,5478.00,0.00,5478.00
+2025,"Emergency Department",Ν06Χ,"Bank Employee Fund",1,969.00,3391.50,4360.50
+2025,"Emergency Department",Ν21Χ,"Bank Employee Fund",1,1885.00,1131.00,3016.00
+2025,"Emergency Department",Ν25Α,Uninsured,1,482.00,0.00,482.00
+2025,"Emergency Department",Ν30Μα,Uninsured,1,3408.00,0.00,3408.00
+2025,"Emergency Department",Ν35Α,EFKA,1,350.00,3850.00,4200.00
+2025,"Emergency Department",Ν38Χ,"Military Fund",1,879.00,1538.25,2417.25
+2025,"Emergency Department",Ο02Α,Uninsured,1,1611.00,3222.00,4833.00
+2025,"Emergency Department",Ο21Μ,"Military Fund",1,934.00,0.00,934.00
+2025,"Emergency Department",Π05Μβ,EFKA,1,2085.00,0.00,2085.00
+2025,"Emergency Department",Σ02Μ,"Military Fund",1,5777.00,0.00,5777.00
+2025,"Emergency Department",Τ27Μβ,"Military Fund",1,1294.00,0.00,1294.00
+2025,Endocrinology,Ε06Χα,EFKA,1,20597.00,0.00,20597.00
+2025,Endocrinology,Ε11Μ,Uninsured,1,10704.00,0.00,10704.00
+2025,Endocrinology,Μ25Χ,"Military Fund",1,1260.00,0.00,1260.00
+2025,Endocrinology,Ν01Χ,"Bank Employee Fund",1,1980.00,2772.00,4752.00
+2025,Endocrinology,Ν03Χ,"Bank Employee Fund",1,3990.00,3990.00,7980.00
+2025,Endocrinology,Ν03Χ,"Private Insurance",1,3990.00,6384.00,10374.00
+2025,Endocrinology,Ν03Χ,Uninsured,1,3990.00,4788.00,8778.00
+2025,Endocrinology,Ν31Χ,"Private Insurance",1,280.00,0.00,280.00
+2025,Endocrinology,Ν31Χ,Uninsured,1,280.00,1120.00,1400.00
+2025,Endocrinology,Ν41Χ,"Military Fund",1,693.00,693.00,1386.00
+2025,Endocrinology,Ο02Α,"Private Insurance",1,1611.00,1074.00,2685.00
+2025,Endocrinology,Ο11Α,"Private Insurance",1,639.00,7029.00,7668.00
+2025,Endocrinology,Ο14Α,Uninsured,1,406.00,1015.00,1421.00
+2025,Endocrinology,Ο15Β,"Bank Employee Fund",1,687.00,4809.00,5496.00
+2025,Endocrinology,Π26Μ,"Military Fund",1,3338.00,0.00,3338.00
+2025,Endocrinology,Π27Α,EFKA,1,265.00,795.00,1060.00
+2025,Endocrinology,Υ22Α,Uninsured,1,482.00,4338.00,4820.00
+2025,Endocrinology,Φ02Χ,"Private Insurance",1,8412.00,0.00,8412.00
+2025,Endocrinology,Ω12Α,Uninsured,1,946.00,16082.00,17028.00
+2025,Gastroenterology,Ε06Χα,EFKA,1,20597.00,0.00,20597.00
+2025,Gastroenterology,Κ34Χ,"Military Fund",1,981.00,588.60,1569.60
+2025,Gastroenterology,Λ01Χ,Uninsured,1,1541.00,0.00,1541.00
+2025,Gastroenterology,Λ23Α,"Military Fund",1,265.00,265.00,530.00
+2025,Gastroenterology,Ν12Μ,EFKA,1,5390.00,0.00,5390.00
+2025,Gastroenterology,Ν27Χ,"Private Insurance",1,482.00,0.00,482.00
+2025,Gastroenterology,Ν27Χ,Uninsured,1,482.00,2249.38,2731.38
+2025,Gastroenterology,Ν38Χ,"Military Fund",1,879.00,659.25,1538.25
+2025,Gastroenterology,Ο02Α,EFKA,1,1611.00,2148.00,3759.00
+2025,Gastroenterology,Ο11Α,"Private Insurance",1,639.00,1917.00,2556.00
+2025,Gastroenterology,Υ05Μ,"Bank Employee Fund",1,2848.00,0.00,2848.00
+2025,Gastroenterology,Ω02Μα,"Bank Employee Fund",1,5420.00,3449.11,8869.11
+2025,Gastroenterology,Ω04Χ,EFKA,1,1934.00,12571.00,14505.00
+2025,Gastroenterology,Ω04Χ,"Military Fund",1,1934.00,2901.00,4835.00
+2025,Gastroenterology,Ω30Μ,"Bank Employee Fund",2,4576.00,2287.98,6863.98
+2025,"General Surgery",Α35Μβ,"Bank Employee Fund",1,973.00,194.60,1167.60
+2025,"General Surgery",Δ24Μ,"Military Fund",1,1619.00,0.00,1619.00
+2025,"General Surgery",Ε01Α,EFKA,2,57814.00,0.00,57814.00
+2025,"General Surgery",Ε06Χα,EFKA,1,20597.00,0.00,20597.00
+2025,"General Surgery",Ε06Χα,"Military Fund",1,20597.00,0.00,20597.00
+2025,"General Surgery",Ε08Χ,"Bank Employee Fund",1,3683.00,0.00,3683.00
+2025,"General Surgery",Ε11Μ,"Bank Employee Fund",1,10704.00,0.00,10704.00
+2025,"General Surgery",Ζ02Χ,"Private Insurance",1,2979.00,1489.50,4468.50
+2025,"General Surgery",Θ04Μ,"Bank Employee Fund",1,4378.00,1641.75,6019.75
+2025,"General Surgery",Θ04Χ,"Bank Employee Fund",1,2848.00,5696.00,8544.00
+2025,"General Surgery",Κ20Α,"Military Fund",1,760.00,2280.00,3040.00
+2025,"General Surgery",Μ67Χ,"Private Insurance",1,996.00,0.00,996.00
+2025,"General Surgery",Ν01Χ,"Military Fund",1,1980.00,0.00,1980.00
+2025,"General Surgery",Ν03Χ,"Private Insurance",1,3990.00,0.00,3990.00
+2025,"General Surgery",Ν06Χ,"Military Fund",1,969.00,7267.50,8236.50
+2025,"General Surgery",Ν30Α,"Bank Employee Fund",1,420.00,3150.00,3570.00
+2025,"General Surgery",Ν31Χ,"Military Fund",1,280.00,1680.00,1960.00
+2025,"General Surgery",Ν38Χ,"Military Fund",1,879.00,439.50,1318.50
+2025,"General Surgery",Ν38Χ,Uninsured,1,879.00,1538.25,2417.25
+2025,"General Surgery",Ο02Α,Uninsured,1,1611.00,7518.00,9129.00
+2025,"General Surgery",Ο11Α,"Private Insurance",1,639.00,9585.00,10224.00
+2025,"General Surgery",Ω02Μα,"Military Fund",1,5420.00,0.00,5420.00
+2025,"General Surgery",Ω12Α,"Military Fund",1,946.00,946.00,1892.00
+2025,"General Surgery",Ω12Α,Uninsured,1,946.00,15136.00,16082.00
+2025,"General Surgery",Ω30Μ,"Military Fund",1,2288.00,2033.76,4321.76
+2025,"Intensive Care Unit",Ε01Α,"Private Insurance",1,28907.00,0.00,28907.00
+2025,"Intensive Care Unit",Ε06Χα,"Bank Employee Fund",1,20597.00,0.00,20597.00
+2025,"Intensive Care Unit",Κ17Μ,EFKA,1,2892.00,0.00,2892.00
+2025,"Intensive Care Unit",Μ07Α,Uninsured,1,5235.00,0.00,5235.00
+2025,"Intensive Care Unit",Μ08Μ,Uninsured,1,4449.00,0.00,4449.00
+2025,"Intensive Care Unit",Ν01Χ,EFKA,1,1980.00,3960.00,5940.00
+2025,"Intensive Care Unit",Ν03Χ,"Military Fund",1,3990.00,0.00,3990.00
+2025,"Intensive Care Unit",Ν06Χ,Uninsured,1,969.00,1453.50,2422.50
+2025,"Intensive Care Unit",Ν12Μ,Uninsured,1,5390.00,0.00,5390.00
+2025,"Intensive Care Unit",Ν21Χ,EFKA,1,1885.00,4524.00,6409.00
+2025,"Intensive Care Unit",Ν21Χ,"Military Fund",1,1885.00,3016.00,4901.00
+2025,"Intensive Care Unit",Ν21Χ,Uninsured,1,1885.00,3770.00,5655.00
+2025,"Intensive Care Unit",Ν27Χ,"Private Insurance",1,482.00,642.68,1124.68
+2025,"Intensive Care Unit",Ν41Χ,"Military Fund",1,693.00,1848.00,2541.00
+2025,"Intensive Care Unit",Ο11Α,"Military Fund",1,639.00,3195.00,3834.00
+2025,"Intensive Care Unit",Ο12Α,"Private Insurance",1,583.00,1749.00,2332.00
+2025,"Intensive Care Unit",Ο15Β,Uninsured,1,687.00,6183.00,6870.00
+2025,"Intensive Care Unit",Ρ05Χ,"Military Fund",1,2140.00,0.00,2140.00
+2025,"Intensive Care Unit",Υ21Α,EFKA,1,231.00,2310.00,2541.00
+2025,"Intensive Care Unit",Ω12Α,"Military Fund",1,946.00,7568.00,8514.00
+2025,Nephrology,Ε08Χ,"Military Fund",1,3683.00,2209.80,5892.80
+2025,Nephrology,Ε11Μ,Uninsured,1,10704.00,0.00,10704.00
+2025,Nephrology,Η40Μα,Uninsured,1,2654.00,0.00,2654.00
+2025,Nephrology,Κ03Μ,EFKA,1,15429.00,0.00,15429.00
+2025,Nephrology,Ν03Χ,EFKA,1,3990.00,0.00,3990.00
+2025,Nephrology,Ν12Μ,"Military Fund",1,5390.00,0.00,5390.00
+2025,Nephrology,Ν27Χ,EFKA,1,482.00,642.68,1124.68
+2025,Nephrology,Ν27Χ,"Private Insurance",1,482.00,642.68,1124.68
+2025,Nephrology,Ν41Χ,"Military Fund",1,693.00,1617.00,2310.00
+2025,Nephrology,Ο02Α,"Bank Employee Fund",1,1611.00,4833.00,6444.00
+2025,Nephrology,Ο15Β,"Military Fund",1,687.00,2748.00,3435.00
+2025,Nephrology,Ο21Μ,Uninsured,1,934.00,747.20,1681.20
+2025,Nephrology,Χ42Χ,EFKA,1,1331.00,0.00,1331.00
+2025,Nephrology,Ω30Μ,"Bank Employee Fund",1,2288.00,0.00,2288.00
+2025,Nephrology,Ω30Μ,"Military Fund",1,2288.00,0.00,2288.00
+2025,Neurology,Α20Χ,EFKA,1,2638.00,0.00,2638.00
+2025,Neurology,Ε01Α,EFKA,1,28907.00,0.00,28907.00
+2025,Neurology,Ε01Α,"Military Fund",1,28907.00,0.00,28907.00
+2025,Neurology,Ε06Χα,"Bank Employee Fund",1,20597.00,0.00,20597.00
+2025,Neurology,Κ45Μα,"Military Fund",1,2428.00,242.80,2670.80
+2025,Neurology,Μ65Χ,"Bank Employee Fund",1,1222.00,977.60,2199.60
+2025,Neurology,Μ66Μ,"Military Fund",1,2436.00,0.00,2436.00
+2025,Neurology,Ν01Χ,"Bank Employee Fund",1,1980.00,0.00,1980.00
+2025,Neurology,Ν01Χ,Uninsured,1,1980.00,5148.00,7128.00
+2025,Neurology,Ν03Χ,Uninsured,1,3990.00,5586.00,9576.00
+2025,Neurology,Ν06Χ,Uninsured,1,969.00,1938.00,2907.00
+2025,Neurology,Ν12Μ,Uninsured,2,10780.00,829.24,11609.24
+2025,Neurology,Ν26Μ,EFKA,1,2062.00,0.00,2062.00
+2025,Neurology,Ν30Α,"Military Fund",1,420.00,0.00,420.00
+2025,Neurology,Ν35Α,EFKA,1,350.00,5250.00,5600.00
+2025,Neurology,Ν35Α,"Military Fund",1,350.00,700.00,1050.00
+2025,Neurology,Ν41Χ,"Private Insurance",1,693.00,1848.00,2541.00
+2025,Neurology,Ο02Α,EFKA,1,1611.00,3759.00,5370.00
+2025,Neurology,Ο15Β,Uninsured,1,687.00,11679.00,12366.00
+2025,Neurology,Ο21Μ,"Bank Employee Fund",1,934.00,1120.80,2054.80
+2025,Neurology,Τ25Χ,EFKA,1,2646.00,0.00,2646.00
+2025,Neurology,Ω04Χ,Uninsured,1,1934.00,2901.00,4835.00
+2025,Neurology,Ω06Α,"Bank Employee Fund",1,1125.00,9000.00,10125.00
+2025,Neurology,Ω12Α,"Private Insurance",1,946.00,14190.00,15136.00
+2025,"Obstetrics and Gynecology",Ε01Α,"Military Fund",1,28907.00,0.00,28907.00
+2025,"Obstetrics and Gynecology",Ε06Χα,Uninsured,1,20597.00,0.00,20597.00
+2025,"Obstetrics and Gynecology",Ε08Χ,Uninsured,1,3683.00,0.00,3683.00
+2025,"Obstetrics and Gynecology",Ε11Μ,EFKA,1,10704.00,1427.20,12131.20
+2025,"Obstetrics and Gynecology",Ε11Μ,"Private Insurance",1,10704.00,0.00,10704.00
+2025,"Obstetrics and Gynecology",Ζ01Α,Uninsured,1,36068.00,0.00,36068.00
+2025,"Obstetrics and Gynecology",Η42Μ,"Military Fund",1,1938.00,484.50,2422.50
+2025,"Obstetrics and Gynecology",Κ35Χ,"Military Fund",1,521.00,260.50,781.50
+2025,"Obstetrics and Gynecology",Κ35Χ,Uninsured,1,521.00,0.00,521.00
+2025,"Obstetrics and Gynecology",Κ45Χ,"Bank Employee Fund",1,521.00,1302.50,1823.50
+2025,"Obstetrics and Gynecology",Ν01Χ,"Military Fund",1,1980.00,0.00,1980.00
+2025,"Obstetrics and Gynecology",Ν01Χ,"Private Insurance",1,1980.00,0.00,1980.00
+2025,"Obstetrics and Gynecology",Ν03Χ,"Military Fund",1,3990.00,7980.00,11970.00
+2025,"Obstetrics and Gynecology",Ν06Χ,EFKA,1,969.00,484.50,1453.50
+2025,"Obstetrics and Gynecology",Ν06Χ,Uninsured,1,969.00,6298.50,7267.50
+2025,"Obstetrics and Gynecology",Ν21Χ,Uninsured,1,1885.00,0.00,1885.00
+2025,"Obstetrics and Gynecology",Ν25Α,"Bank Employee Fund",1,482.00,3615.00,4097.00
+2025,"Obstetrics and Gynecology",Ν25Α,"Military Fund",2,964.00,241.00,1205.00
+2025,"Obstetrics and Gynecology",Ν27Χ,"Military Fund",1,482.00,482.01,964.01
+2025,"Obstetrics and Gynecology",Ν41Χ,"Private Insurance",1,693.00,2079.00,2772.00
+2025,"Obstetrics and Gynecology",Ο11Α,"Private Insurance",1,639.00,10224.00,10863.00
+2025,"Obstetrics and Gynecology",Ο21Μ,"Bank Employee Fund",1,934.00,0.00,934.00
+2025,"Obstetrics and Gynecology",Π45Μ,EFKA,1,1338.00,0.00,1338.00
+2025,"Obstetrics and Gynecology",Ρ24Μβ,EFKA,1,1401.00,233.50,1634.50
+2025,"Obstetrics and Gynecology",Ω04Χ,"Military Fund",1,1934.00,15472.00,17406.00
+2025,"Obstetrics and Gynecology",Ω04Χ,Uninsured,1,1934.00,8703.00,10637.00
+2025,"Obstetrics and Gynecology",Ω30Μ,Uninsured,1,2288.00,0.00,2288.00
+2025,"Obstetrics and Gynecology",Ω33Α,"Private Insurance",1,397.00,595.50,992.50
+2025,Oncology,Α27Μ,"Bank Employee Fund",1,864.00,864.00,1728.00
+2025,Oncology,Α29Μ,Uninsured,1,872.00,1526.00,2398.00
+2025,Oncology,Γ05Χ,"Private Insurance",1,1374.00,4809.00,6183.00
+2025,Oncology,Η41Μ,Uninsured,1,1930.00,214.44,2144.44
+2025,Oncology,Η43Μ,"Military Fund",1,1813.00,0.00,1813.00
+2025,Oncology,Λ03Χ,"Military Fund",1,886.00,1772.00,2658.00
+2025,Oncology,Ν01Χ,Uninsured,1,1980.00,0.00,1980.00
+2025,Oncology,Ν21Χ,"Military Fund",1,1885.00,4901.00,6786.00
+2025,Oncology,Ν25Α,Uninsured,1,482.00,723.00,1205.00
+2025,Oncology,Ν27Χ,"Military Fund",1,482.00,0.00,482.00
+2025,Oncology,Ν30Α,"Military Fund",1,420.00,1890.00,2310.00
+2025,Oncology,Ν38Χ,Uninsured,1,879.00,2197.50,3076.50
+2025,Orthopedics,S01Χ,"Bank Employee Fund",1,1334.00,4002.00,5336.00
+2025,Orthopedics,Α12Μ,"Military Fund",1,3984.00,0.00,3984.00
+2025,Orthopedics,Α22Χ,"Private Insurance",1,630.00,0.00,630.00
+2025,Orthopedics,Ε06Χα,"Private Insurance",1,20597.00,0.00,20597.00
+2025,Orthopedics,Ε08Χ,"Private Insurance",1,3683.00,0.00,3683.00
+2025,Orthopedics,Ε11Μ,"Private Insurance",1,10704.00,0.00,10704.00
+2025,Orthopedics,Μ76Μ,"Military Fund",1,1292.00,184.57,1476.57
+2025,Orthopedics,Ν01Χ,"Bank Employee Fund",1,1980.00,5148.00,7128.00
+2025,Orthopedics,Ν01Χ,"Private Insurance",1,1980.00,2772.00,4752.00
+2025,Orthopedics,Ν03Χ,"Bank Employee Fund",1,3990.00,10374.00,14364.00
+2025,Orthopedics,Ν06Χ,EFKA,1,969.00,969.00,1938.00
+2025,Orthopedics,Ν25Α,EFKA,2,964.00,2410.00,3374.00
+2025,Orthopedics,Ν27Χ,"Military Fund",1,482.00,803.35,1285.35
+2025,Orthopedics,Ν31Χ,"Bank Employee Fund",1,280.00,840.00,1120.00
+2025,Orthopedics,Ο21Μ,EFKA,1,934.00,934.00,1868.00
+2025,Orthopedics,Π07Χ,"Military Fund",1,983.00,2949.00,3932.00
+2025,Orthopedics,Π46Α,"Bank Employee Fund",1,327.00,817.50,1144.50
+2025,Orthopedics,Σ02Χβ,"Bank Employee Fund",1,2056.00,411.20,2467.20
+2025,Orthopedics,Ω02Μα,"Private Insurance",1,5420.00,0.00,5420.00
+2025,Orthopedics,Ω02Μα,Uninsured,1,5420.00,0.00,5420.00
+2025,Pediatrics,S24Χ,"Military Fund",1,216.00,1296.00,1512.00
+2025,Pediatrics,Δ25Μ,"Bank Employee Fund",1,1105.00,920.85,2025.85
+2025,Pediatrics,Ε11Μ,Uninsured,1,10704.00,0.00,10704.00
+2025,Pediatrics,Ν06Χ,EFKA,1,969.00,5329.50,6298.50
+2025,Pediatrics,Ν30Α,"Military Fund",1,420.00,2100.00,2520.00
+2025,Pediatrics,Ν31Χ,EFKA,1,280.00,0.00,280.00
+2025,Pediatrics,Ν35Α,"Military Fund",1,350.00,3850.00,4200.00
+2025,Pediatrics,Ν35Α,Uninsured,1,350.00,1400.00,1750.00
+2025,Pediatrics,Ν41Χ,"Bank Employee Fund",1,693.00,693.00,1386.00
+2025,Pediatrics,Ν41Χ,"Private Insurance",1,693.00,231.00,924.00
+2025,Pediatrics,Ο15Β,"Private Insurance",1,687.00,0.00,687.00
+2025,Pediatrics,Π04Χ,"Military Fund",1,1578.00,0.00,1578.00
+2025,Pediatrics,Τ22Α,"Military Fund",1,30725.00,0.00,30725.00
+2025,Pediatrics,Ω02Μα,"Private Insurance",1,5420.00,492.73,5912.73
+2025,Pediatrics,Ω04Χ,"Private Insurance",1,1934.00,967.00,2901.00
+2025,Pediatrics,Ω12Α,EFKA,1,946.00,2838.00,3784.00
+2025,Psychiatry,Γ12Μ,"Military Fund",1,3576.00,0.00,3576.00
+2025,Psychiatry,Ε01Α,"Bank Employee Fund",1,28907.00,0.00,28907.00
+2025,Psychiatry,Ε08Χ,"Bank Employee Fund",1,3683.00,0.00,3683.00
+2025,Psychiatry,Ε08Χ,"Private Insurance",1,3683.00,1473.20,5156.20
+2025,Psychiatry,Ε08Χ,Uninsured,1,3683.00,1104.90,4787.90
+2025,Psychiatry,Ε11Μ,"Private Insurance",1,10704.00,0.00,10704.00
+2025,Psychiatry,Μ74Α,EFKA,1,350.00,525.00,875.00
+2025,Psychiatry,Ν06Χ,"Military Fund",2,1938.00,0.00,1938.00
+2025,Psychiatry,Ν12Μ,EFKA,1,5390.00,1658.48,7048.48
+2025,Psychiatry,Ν21Χ,"Military Fund",1,1885.00,4901.00,6786.00
+2025,Psychiatry,Ν27Χ,"Military Fund",1,482.00,2088.71,2570.71
+2025,Psychiatry,Ν30Α,Uninsured,1,420.00,1050.00,1470.00
+2025,Psychiatry,Ν31Χ,"Private Insurance",1,280.00,2240.00,2520.00
+2025,Psychiatry,Ν38Χ,"Private Insurance",2,1758.00,2197.50,3955.50
+2025,Psychiatry,Ν41Χ,Uninsured,1,693.00,3465.00,4158.00
+2025,Psychiatry,Ο11Α,"Bank Employee Fund",1,639.00,5751.00,6390.00
+2025,Psychiatry,Ο15Β,EFKA,1,687.00,687.00,1374.00
+2025,Psychiatry,Ο21Μ,"Military Fund",2,1868.00,1120.80,2988.80
+2025,Psychiatry,Σ21Χ,"Bank Employee Fund",1,1886.00,1508.80,3394.80
+2025,Psychiatry,Τ04Α,"Private Insurance",1,11997.00,0.00,11997.00
+2025,Psychiatry,Ω02Μα,EFKA,1,5420.00,0.00,5420.00
+2025,Psychiatry,Ω02Μα,"Private Insurance",1,5420.00,0.00,5420.00
+2025,Psychiatry,Ω04Χ,EFKA,1,1934.00,14505.00,16439.00
+2025,Psychiatry,Ω12Α,"Bank Employee Fund",1,946.00,8514.00,9460.00
+2025,Psychiatry,Ω33Α,EFKA,1,397.00,1588.00,1985.00
+2025,Pulmonology,Δ12Μ,EFKA,1,4871.00,0.00,4871.00
+2025,Pulmonology,Δ20Α,"Bank Employee Fund",1,171.00,1539.00,1710.00
+2025,Pulmonology,Ε08Χ,"Private Insurance",1,3683.00,2209.80,5892.80
+2025,Pulmonology,Θ09Μ,"Bank Employee Fund",1,4895.00,0.00,4895.00
+2025,Pulmonology,Κ33Α,EFKA,1,3132.00,0.00,3132.00
+2025,Pulmonology,Μ31Μ,"Bank Employee Fund",1,11675.00,0.00,11675.00
+2025,Pulmonology,Ν03Χ,"Private Insurance",1,3990.00,0.00,3990.00
+2025,Pulmonology,Ν30Α,EFKA,1,420.00,1050.00,1470.00
+2025,Pulmonology,Ν35Α,"Bank Employee Fund",1,350.00,3150.00,3500.00
+2025,Pulmonology,Ο02Α,EFKA,1,1611.00,3759.00,5370.00
+2025,Pulmonology,Ο02Α,Uninsured,1,1611.00,4833.00,6444.00
+2025,Pulmonology,Ο15Β,"Private Insurance",1,687.00,11679.00,12366.00
+2025,Pulmonology,Υ08Μ,"Military Fund",1,1271.00,1016.80,2287.80
+2025,Pulmonology,Ω12Α,Uninsured,1,946.00,6622.00,7568.00
+2025,Pulmonology,Ω30Μ,EFKA,1,2288.00,1271.10,3559.10
+2025,Pulmonology,Ω30Μ,"Private Insurance",1,2288.00,0.00,2288.00
+2025,Radiology,Ε08Χ,Uninsured,1,3683.00,0.00,3683.00
+2025,Radiology,Μ19Χ,"Private Insurance",1,1904.00,7616.00,9520.00
+2025,Radiology,Ν03Χ,Uninsured,1,3990.00,8778.00,12768.00
+2025,Radiology,Ν12Μ,"Military Fund",1,5390.00,414.62,5804.62
+2025,Radiology,Ν21Χ,"Military Fund",1,1885.00,0.00,1885.00
+2025,Radiology,Ν25Α,"Private Insurance",1,482.00,1687.00,2169.00
+2025,Radiology,Ν31Χ,EFKA,1,280.00,980.00,1260.00
+2025,Radiology,Ν35Α,"Military Fund",1,350.00,2100.00,2450.00
+2025,Radiology,Ν38Χ,Uninsured,1,879.00,2197.50,3076.50
+2025,Radiology,Ν41Χ,"Bank Employee Fund",1,693.00,1386.00,2079.00
+2025,Radiology,Ν41Χ,Uninsured,1,693.00,1386.00,2079.00
+2025,Radiology,Ο15Β,EFKA,1,687.00,2061.00,2748.00
+2026,Cardiology,Θ21Α,"Military Fund",1,2599.00,0.00,2599.00
+2026,Cardiology,Θ24Μ,"Private Insurance",1,1829.00,0.00,1829.00
+2026,Cardiology,Ν06Χ,"Military Fund",1,969.00,4360.50,5329.50
+2026,Cardiology,Ν25Α,"Private Insurance",1,482.00,2410.00,2892.00
+2026,Cardiology,Ν31Χ,"Bank Employee Fund",1,280.00,1960.00,2240.00
+2026,Cardiology,Ν31Χ,"Private Insurance",1,280.00,1820.00,2100.00
+2026,Cardiology,Ν38Χ,"Bank Employee Fund",1,879.00,2197.50,3076.50
+2026,Cardiology,Ο21Μ,"Private Insurance",1,934.00,934.00,1868.00
+2026,Cardiology,Π40Χ,"Bank Employee Fund",1,677.00,169.25,846.25
+2026,Cardiology,Π47Χ,"Bank Employee Fund",1,335.00,502.50,837.50
+2026,Cardiology,Ω02Μα,EFKA,1,5420.00,0.00,5420.00
+2026,"Emergency Department",Κ33Α,"Private Insurance",1,3132.00,0.00,3132.00
+2026,"Emergency Department",Ν21Χ,"Private Insurance",1,1885.00,1508.00,3393.00
+2026,"Emergency Department",Ν27Χ,"Private Insurance",1,482.00,482.01,964.01
+2026,"Emergency Department",Ν30Α,"Private Insurance",1,420.00,0.00,420.00
+2026,"Emergency Department",Ν31Χ,Uninsured,1,280.00,840.00,1120.00
+2026,"Emergency Department",Ν38Χ,"Military Fund",1,879.00,1538.25,2417.25
+2026,"Emergency Department",Ν38Χ,Uninsured,1,879.00,0.00,879.00
+2026,"Emergency Department",Ξ22Α,"Private Insurance",1,514.00,1370.64,1884.64
+2026,"Emergency Department",Ο02Α,Uninsured,1,1611.00,4296.00,5907.00
+2026,"Emergency Department",Ω04Χ,EFKA,1,1934.00,8703.00,10637.00
+2026,"Emergency Department",Ω12Α,"Bank Employee Fund",1,946.00,10406.00,11352.00
+2026,Endocrinology,Β01Χ,Uninsured,1,2892.00,2169.00,5061.00
+2026,Endocrinology,Ε11Μ,Uninsured,1,10704.00,0.00,10704.00
+2026,Endocrinology,Ζ03Α,"Private Insurance",1,2312.00,2312.00,4624.00
+2026,Endocrinology,Ν01Χ,"Military Fund",2,3960.00,1584.00,5544.00
+2026,Endocrinology,Ν03Χ,"Military Fund",1,3990.00,1596.00,5586.00
+2026,Endocrinology,Ν30Α,Uninsured,1,420.00,3360.00,3780.00
+2026,Endocrinology,Ν31Χ,"Military Fund",1,280.00,0.00,280.00
+2026,Endocrinology,Ν35Α,"Military Fund",1,350.00,3850.00,4200.00
+2026,Endocrinology,Ν35Α,Uninsured,1,350.00,350.00,700.00
+2026,Endocrinology,Ο11Α,EFKA,1,639.00,4473.00,5112.00
+2026,Gastroenterology,Α35Χ,"Bank Employee Fund",1,475.00,475.00,950.00
+2026,Gastroenterology,Ε06Χα,"Military Fund",1,20597.00,0.00,20597.00
+2026,Gastroenterology,Μ16Α,"Military Fund",1,1588.00,4764.00,6352.00
+2026,Gastroenterology,Ν06Χ,EFKA,1,969.00,969.00,1938.00
+2026,Gastroenterology,Ν27Χ,"Military Fund",2,964.00,1928.04,2892.04
+2026,Gastroenterology,Ν30Α,"Bank Employee Fund",1,420.00,2100.00,2520.00
+2026,"General Surgery",W11Α,Uninsured,1,991.00,495.50,1486.50
+2026,"General Surgery",Ε01Α,EFKA,1,28907.00,0.00,28907.00
+2026,"General Surgery",Ε11Μ,Uninsured,1,10704.00,713.60,11417.60
+2026,"General Surgery",Ν25Α,"Military Fund",1,482.00,241.00,723.00
+2026,"General Surgery",Ν31Χ,EFKA,1,280.00,2240.00,2520.00
+2026,"General Surgery",Ο11Α,"Bank Employee Fund",1,639.00,7029.00,7668.00
+2026,"Intensive Care Unit",Κ19Α,EFKA,1,3194.00,7452.69,10646.69
+2026,"Intensive Care Unit",Ν06Χ,"Private Insurance",1,969.00,0.00,969.00
+2026,"Intensive Care Unit",Ν12Μ,Uninsured,1,5390.00,2073.10,7463.10
+2026,"Intensive Care Unit",Ν38Χ,"Private Insurance",1,879.00,1098.75,1977.75
+2026,"Intensive Care Unit",Ω30Μ,"Military Fund",1,2288.00,508.44,2796.44
+2026,Nephrology,Ε06Χα,"Private Insurance",1,20597.00,0.00,20597.00
+2026,Nephrology,Κ37Χ,"Private Insurance",1,459.00,2065.50,2524.50
+2026,Nephrology,Ν25Α,"Bank Employee Fund",1,482.00,1687.00,2169.00
+2026,Nephrology,Ο21Μ,Uninsured,1,934.00,2241.60,3175.60
+2026,Nephrology,Ω04Χ,"Military Fund",1,1934.00,11604.00,13538.00
+2026,Nephrology,Ω12Α,Uninsured,1,946.00,10406.00,11352.00
+2026,Neurology,Ν12Μ,Uninsured,1,5390.00,0.00,5390.00
+2026,Neurology,Ο02Α,"Bank Employee Fund",1,1611.00,6444.00,8055.00
+2026,Neurology,Ο15Β,"Private Insurance",1,687.00,11679.00,12366.00
+2026,Neurology,Ο21Μ,EFKA,1,934.00,0.00,934.00
+2026,"Obstetrics and Gynecology",Ε01Α,"Private Insurance",1,28907.00,0.00,28907.00
+2026,"Obstetrics and Gynecology",Θ20Χ,Uninsured,1,1580.00,225.71,1805.71
+2026,"Obstetrics and Gynecology",Ν12Μ,EFKA,1,5390.00,1658.48,7048.48
+2026,"Obstetrics and Gynecology",Ν12Μ,"Military Fund",1,5390.00,0.00,5390.00
+2026,"Obstetrics and Gynecology",Ν31Χ,"Military Fund",1,280.00,1540.00,1820.00
+2026,"Obstetrics and Gynecology",Ν35Α,"Private Insurance",1,350.00,4900.00,5250.00
+2026,"Obstetrics and Gynecology",Φ24Χ,"Private Insurance",1,934.00,1868.00,2802.00
+2026,Oncology,Ν21Χ,"Bank Employee Fund",1,1885.00,0.00,1885.00
+2026,Oncology,Ν30Α,EFKA,1,420.00,1890.00,2310.00
+2026,Oncology,Ν35Α,"Military Fund",1,350.00,4550.00,4900.00
+2026,Oncology,Ν41Χ,EFKA,1,693.00,2310.00,3003.00
+2026,Oncology,Ω02Μα,"Bank Employee Fund",1,5420.00,2463.65,7883.65
+2026,Oncology,Ω02Μα,"Military Fund",1,5420.00,0.00,5420.00
+2026,Orthopedics,Ε08Χ,Uninsured,1,3683.00,0.00,3683.00
+2026,Orthopedics,Ν31Χ,"Private Insurance",1,280.00,840.00,1120.00
+2026,Orthopedics,Ν41Χ,"Bank Employee Fund",1,693.00,924.00,1617.00
+2026,Orthopedics,Ο11Α,Uninsured,1,639.00,8946.00,9585.00
+2026,Orthopedics,Τ04Α,"Bank Employee Fund",1,11997.00,0.00,11997.00
+2026,Orthopedics,Τ27Μβ,Uninsured,1,1294.00,0.00,1294.00
+2026,Orthopedics,Ω04Χ,"Military Fund",1,1934.00,7736.00,9670.00
+2026,Orthopedics,Ω30Μ,"Bank Employee Fund",1,2288.00,0.00,2288.00
+2026,Pediatrics,Ο15Β,Uninsured,1,687.00,0.00,687.00
+2026,Pediatrics,Ω30Μ,"Bank Employee Fund",1,2288.00,508.44,2796.44
+2026,Psychiatry,Ε08Χ,"Military Fund",1,3683.00,0.00,3683.00
+2026,Psychiatry,Κ39Μ,EFKA,1,1268.00,633.99,1901.99
+2026,Psychiatry,Ν03Χ,EFKA,1,3990.00,7980.00,11970.00
+2026,Psychiatry,Ν27Χ,"Military Fund",1,482.00,1124.69,1606.69
+2026,Psychiatry,Ν31Χ,"Military Fund",1,280.00,1400.00,1680.00
+2026,Psychiatry,Ν38Χ,EFKA,1,879.00,439.50,1318.50
+2026,Psychiatry,Ν41Χ,EFKA,1,693.00,1617.00,2310.00
+2026,Psychiatry,Ο02Α,EFKA,1,1611.00,6981.00,8592.00
+2026,Psychiatry,Ω12Α,"Military Fund",1,946.00,13244.00,14190.00
+2026,Pulmonology,Ε01Α,Uninsured,1,28907.00,0.00,28907.00
+2026,Pulmonology,Ε06Χα,"Military Fund",1,20597.00,0.00,20597.00
+2026,Pulmonology,Ε11Μ,Uninsured,1,10704.00,0.00,10704.00
+2026,Pulmonology,Ν12Μ,"Bank Employee Fund",1,5390.00,0.00,5390.00
+2026,Pulmonology,Ο15Β,EFKA,1,687.00,1374.00,2061.00
+2026,Pulmonology,Ο21Μ,Uninsured,1,934.00,1307.60,2241.60
+2026,Pulmonology,Ω04Χ,Uninsured,1,1934.00,0.00,1934.00
+2026,Radiology,Ν21Χ,"Military Fund",1,1885.00,4901.00,6786.00
+2026,Radiology,Ο02Α,"Private Insurance",1,1611.00,4833.00,6444.00
+2026,Radiology,Ο11Α,Uninsured,1,639.00,8946.00,9585.00
+2026,Radiology,Ω02Μα,"Military Fund",1,5420.00,0.00,5420.00

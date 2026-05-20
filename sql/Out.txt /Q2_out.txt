@@ -1,0 +1,21 @@
+doctor_amka,first_name,last_name,speciality,rank,had_shift_current_year,shifts_current_year,surgeries_as_head_doctor
+36172221786,Derek,Shepherd,"General Surgery",Director,YES,69,5
+83427210938,Liam,Anderson,"General Surgery","Attending A",YES,69,5
+70000103009,Diane,Grey,"General Surgery","Attending B",YES,69,2
+70000103006,Jules,Grey,"General Surgery","Attending B",YES,69,1
+82681300933,Atticus,Lincoln,"General Surgery","Attending A",YES,69,1
+10311570307,Dahlia,Qadri,"General Surgery","Attending B",YES,67,1
+70000103013,Nicole,Grey,"General Surgery",Director,YES,66,1
+22926432934,Allison,Cameron,"General Surgery",Resident,YES,69,0
+70000103002,Nick,Grey,"General Surgery",Resident,YES,69,0
+70000103004,Lucas,Grey,"General Surgery",Resident,YES,69,0
+70000103005,Mika,Grey,"General Surgery","Attending B",YES,69,0
+70000103000,Cormac,Grey,"General Surgery",Resident,YES,68,0
+70000103001,Winston,Grey,"General Surgery",Resident,YES,68,0
+70000103007,Benson,Grey,"General Surgery","Attending B",YES,68,0
+70000103010,Charles,Grey,"General Surgery","Attending A",YES,68,0
+70000103003,Simone,Grey,"General Surgery",Resident,YES,67,0
+70000103008,Erica,Grey,"General Surgery","Attending B",YES,67,0
+70000103011,Reed,Grey,"General Surgery","Attending A",YES,67,0
+45068953259,Taryn,Helm,"General Surgery","Attending A",YES,66,0
+70000103012,Robert,Grey,"General Surgery","Attending A",YES,66,0

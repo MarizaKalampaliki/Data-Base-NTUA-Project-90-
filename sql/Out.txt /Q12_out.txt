@@ -1,0 +1,1512 @@
+department_id,department_name,shift_id,shift_date,shift_type,start_time,end_time,staff_type,staff_subclass,assigned_staff_count,minimum_required_per_shift
+2,Cardiology,35552,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35552,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35552,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35552,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35552,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+2,Cardiology,35552,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+2,Cardiology,35567,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35567,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35567,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35567,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+2,Cardiology,35567,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+2,Cardiology,35582,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",2,2
+2,Cardiology,35582,2026-03-01,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35582,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",6,6
+2,Cardiology,35597,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+2,Cardiology,35597,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+2,Cardiology,35597,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35597,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+2,Cardiology,35612,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35612,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35612,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35612,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35612,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+2,Cardiology,35612,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+2,Cardiology,35627,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35627,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35627,2026-03-02,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35627,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35627,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+2,Cardiology,35627,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+2,Cardiology,35642,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",2,2
+2,Cardiology,35642,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35642,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+2,Cardiology,35642,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+2,Cardiology,35657,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+2,Cardiology,35657,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+2,Cardiology,35657,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35657,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",6,6
+2,Cardiology,35672,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35672,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35672,2026-03-03,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35672,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+2,Cardiology,35687,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35687,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35687,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35687,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35687,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+2,Cardiology,35687,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+2,Cardiology,35702,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",2,2
+2,Cardiology,35702,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35702,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+2,Cardiology,35702,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+2,Cardiology,35717,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+2,Cardiology,35717,2026-03-04,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+2,Cardiology,35717,2026-03-04,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35717,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35717,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+2,Cardiology,35717,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+2,Cardiology,35732,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35732,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35732,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35732,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",6,6
+2,Cardiology,35747,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35747,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35747,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35747,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35747,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+2,Cardiology,35747,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+2,Cardiology,35762,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",2,2
+2,Cardiology,35762,2026-03-05,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35762,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+2,Cardiology,35777,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+2,Cardiology,35777,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+2,Cardiology,35777,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35777,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+2,Cardiology,35777,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+2,Cardiology,35792,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35792,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35792,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35792,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35792,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+2,Cardiology,35792,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+2,Cardiology,35807,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35807,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35807,2026-03-06,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35807,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",6,6
+2,Cardiology,35822,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",2,2
+2,Cardiology,35822,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35822,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+2,Cardiology,35822,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+2,Cardiology,35822,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+2,Cardiology,35837,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+2,Cardiology,35837,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+2,Cardiology,35837,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35837,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+2,Cardiology,35852,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+2,Cardiology,35852,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+2,Cardiology,35852,2026-03-07,Night,23:00:00,07:00:00,Doctor,Cardiology,3,3
+2,Cardiology,35852,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+2,Cardiology,35852,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+1,"Emergency Department",35551,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+1,"Emergency Department",35551,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35551,2026-03-01,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35551,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35551,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35566,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+1,"Emergency Department",35566,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35566,2026-03-01,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35566,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+1,"Emergency Department",35581,2026-03-01,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+1,"Emergency Department",35581,2026-03-01,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35581,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+1,"Emergency Department",35581,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",5,6
+1,"Emergency Department",35596,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35596,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+1,"Emergency Department",35596,2026-03-02,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35596,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35596,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35611,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+1,"Emergency Department",35611,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35611,2026-03-02,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35611,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35611,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35626,2026-03-02,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+1,"Emergency Department",35626,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35626,2026-03-02,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35626,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35626,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35641,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+1,"Emergency Department",35641,2026-03-03,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35641,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+1,"Emergency Department",35656,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35656,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+1,"Emergency Department",35656,2026-03-03,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35656,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+1,"Emergency Department",35656,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",5,6
+1,"Emergency Department",35671,2026-03-03,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+1,"Emergency Department",35671,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35671,2026-03-03,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35671,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35671,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35686,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+1,"Emergency Department",35686,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35686,2026-03-04,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35686,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35686,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35701,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+1,"Emergency Department",35701,2026-03-04,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35701,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+1,"Emergency Department",35716,2026-03-04,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35716,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+1,"Emergency Department",35716,2026-03-04,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35716,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35716,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35731,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+1,"Emergency Department",35731,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35731,2026-03-05,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35731,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+1,"Emergency Department",35731,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",5,6
+1,"Emergency Department",35746,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+1,"Emergency Department",35746,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35746,2026-03-05,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35746,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35746,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35761,2026-03-05,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+1,"Emergency Department",35761,2026-03-05,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35761,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35761,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35776,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35776,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+1,"Emergency Department",35776,2026-03-06,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35776,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+1,"Emergency Department",35791,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+1,"Emergency Department",35791,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35791,2026-03-06,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35791,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35791,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35806,2026-03-06,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+1,"Emergency Department",35806,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35806,2026-03-06,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35806,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+1,"Emergency Department",35806,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",5,6
+1,"Emergency Department",35821,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+1,"Emergency Department",35821,2026-03-07,Morning,07:00:00,15:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35821,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35821,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35836,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35836,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+1,"Emergency Department",35836,2026-03-07,Evening,15:00:00,23:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35836,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+1,"Emergency Department",35836,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+1,"Emergency Department",35851,2026-03-07,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+1,"Emergency Department",35851,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+1,"Emergency Department",35851,2026-03-07,Night,23:00:00,07:00:00,Doctor,"Emergency Medicine",3,3
+1,"Emergency Department",35851,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+15,Endocrinology,35565,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+15,Endocrinology,35565,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+15,Endocrinology,35565,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35565,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35565,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35565,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+15,Endocrinology,35580,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+15,Endocrinology,35580,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35580,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+15,Endocrinology,35595,2026-03-01,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35595,2026-03-01,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+15,Endocrinology,35595,2026-03-01,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35595,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35595,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35595,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+15,Endocrinology,35610,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35610,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+15,Endocrinology,35610,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35610,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35610,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+15,Endocrinology,35625,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+15,Endocrinology,35625,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+15,Endocrinology,35625,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35625,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35625,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",2,6
+15,Endocrinology,35640,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+15,Endocrinology,35640,2026-03-02,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35640,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35640,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35640,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+15,Endocrinology,35655,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35655,2026-03-03,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+15,Endocrinology,35655,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35655,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+15,Endocrinology,35670,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35670,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+15,Endocrinology,35670,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35670,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35670,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35670,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+15,Endocrinology,35685,2026-03-03,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+15,Endocrinology,35685,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+15,Endocrinology,35685,2026-03-03,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35685,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35685,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+15,Endocrinology,35700,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+15,Endocrinology,35700,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35700,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35700,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",2,6
+15,Endocrinology,35715,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35715,2026-03-04,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+15,Endocrinology,35715,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35715,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+15,Endocrinology,35730,2026-03-04,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35730,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+15,Endocrinology,35730,2026-03-04,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35730,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35730,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35730,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+15,Endocrinology,35745,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+15,Endocrinology,35745,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+15,Endocrinology,35745,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35745,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35745,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35745,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+15,Endocrinology,35760,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+15,Endocrinology,35760,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35760,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35760,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",2,6
+15,Endocrinology,35775,2026-03-05,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35775,2026-03-05,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+15,Endocrinology,35775,2026-03-05,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35775,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35775,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+15,Endocrinology,35790,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35790,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+15,Endocrinology,35790,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35790,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+15,Endocrinology,35805,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+15,Endocrinology,35805,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+15,Endocrinology,35805,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35805,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35805,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35805,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+15,Endocrinology,35820,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+15,Endocrinology,35820,2026-03-06,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35820,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+15,Endocrinology,35820,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35820,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+15,Endocrinology,35835,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35835,2026-03-07,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+15,Endocrinology,35835,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35835,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+15,Endocrinology,35835,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",2,6
+15,Endocrinology,35850,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+15,Endocrinology,35850,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+15,Endocrinology,35850,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35850,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+15,Endocrinology,35850,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+15,Endocrinology,35865,2026-03-07,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+15,Endocrinology,35865,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+15,Endocrinology,35865,2026-03-07,Night,23:00:00,07:00:00,Doctor,Endocrinology,3,3
+15,Endocrinology,35865,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+13,Gastroenterology,35563,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35563,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+13,Gastroenterology,35563,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35563,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35563,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35563,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35578,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+13,Gastroenterology,35578,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35578,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35578,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+13,Gastroenterology,35593,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+13,Gastroenterology,35593,2026-03-01,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35593,2026-03-01,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35593,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35593,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35593,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35608,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+13,Gastroenterology,35608,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+13,Gastroenterology,35608,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35608,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+13,Gastroenterology,35608,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+13,Gastroenterology,35623,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35623,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+13,Gastroenterology,35623,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35623,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+13,Gastroenterology,35623,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+13,Gastroenterology,35638,2026-03-02,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+13,Gastroenterology,35638,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35638,2026-03-02,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35638,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35638,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35638,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35653,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+13,Gastroenterology,35653,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35653,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35653,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+13,Gastroenterology,35668,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+13,Gastroenterology,35668,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+13,Gastroenterology,35668,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35668,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35668,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35668,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35683,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35683,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+13,Gastroenterology,35683,2026-03-03,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35683,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+13,Gastroenterology,35683,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+13,Gastroenterology,35698,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+13,Gastroenterology,35698,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35698,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35698,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+13,Gastroenterology,35698,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+13,Gastroenterology,35713,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+13,Gastroenterology,35713,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35713,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35713,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+13,Gastroenterology,35728,2026-03-04,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+13,Gastroenterology,35728,2026-03-04,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+13,Gastroenterology,35728,2026-03-04,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35728,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35728,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35728,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35743,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35743,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+13,Gastroenterology,35743,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35743,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35743,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35743,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35758,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+13,Gastroenterology,35758,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35758,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35758,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+13,Gastroenterology,35758,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+13,Gastroenterology,35773,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+13,Gastroenterology,35773,2026-03-05,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35773,2026-03-05,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35773,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+13,Gastroenterology,35773,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+13,Gastroenterology,35788,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+13,Gastroenterology,35788,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+13,Gastroenterology,35788,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35788,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+13,Gastroenterology,35803,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35803,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+13,Gastroenterology,35803,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35803,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35803,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35803,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35818,2026-03-06,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+13,Gastroenterology,35818,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35818,2026-03-06,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35818,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+13,Gastroenterology,35818,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+13,Gastroenterology,35818,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+13,Gastroenterology,35833,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+13,Gastroenterology,35833,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35833,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35833,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+13,Gastroenterology,35833,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+13,Gastroenterology,35848,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+13,Gastroenterology,35848,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+13,Gastroenterology,35848,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35848,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+13,Gastroenterology,35848,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+13,Gastroenterology,35863,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+13,Gastroenterology,35863,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+13,Gastroenterology,35863,2026-03-07,Night,23:00:00,07:00:00,Doctor,Gastroenterology,3,3
+13,Gastroenterology,35863,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+3,"General Surgery",35553,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35553,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+3,"General Surgery",35553,2026-03-01,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35553,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35553,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+3,"General Surgery",35553,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+3,"General Surgery",35568,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35568,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35568,2026-03-01,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35568,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+3,"General Surgery",35583,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Billing Officer",2,2
+3,"General Surgery",35583,2026-03-01,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35583,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+3,"General Surgery",35583,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+3,"General Surgery",35598,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35598,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+3,"General Surgery",35598,2026-03-02,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35598,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+3,"General Surgery",35598,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35613,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35613,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+3,"General Surgery",35613,2026-03-02,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35613,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35613,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+3,"General Surgery",35613,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35628,2026-03-02,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35628,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35628,2026-03-02,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35628,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35628,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+3,"General Surgery",35628,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+3,"General Surgery",35643,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",2,2
+3,"General Surgery",35643,2026-03-03,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35643,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+3,"General Surgery",35658,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35658,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+3,"General Surgery",35658,2026-03-03,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35658,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",2,6
+3,"General Surgery",35658,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+3,"General Surgery",35673,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35673,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+3,"General Surgery",35673,2026-03-03,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35673,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+3,"General Surgery",35673,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35688,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35688,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35688,2026-03-04,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35688,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35688,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+3,"General Surgery",35688,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35703,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",2,2
+3,"General Surgery",35703,2026-03-04,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35703,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+3,"General Surgery",35718,2026-03-04,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35718,2026-03-04,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+3,"General Surgery",35718,2026-03-04,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35718,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35718,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+3,"General Surgery",35718,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+3,"General Surgery",35733,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35733,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+3,"General Surgery",35733,2026-03-05,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35733,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",2,6
+3,"General Surgery",35733,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+3,"General Surgery",35748,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35748,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35748,2026-03-05,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35748,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35748,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+3,"General Surgery",35748,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35763,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Billing Officer",2,2
+3,"General Surgery",35763,2026-03-05,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35763,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+3,"General Surgery",35763,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35778,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35778,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+3,"General Surgery",35778,2026-03-06,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35778,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+3,"General Surgery",35793,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35793,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+3,"General Surgery",35793,2026-03-06,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35793,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35793,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+3,"General Surgery",35793,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+3,"General Surgery",35808,2026-03-06,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35808,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35808,2026-03-06,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35808,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+3,"General Surgery",35808,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+3,"General Surgery",35823,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",2,2
+3,"General Surgery",35823,2026-03-07,Morning,07:00:00,15:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35823,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+3,"General Surgery",35823,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+3,"General Surgery",35823,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35838,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+3,"General Surgery",35838,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+3,"General Surgery",35838,2026-03-07,Evening,15:00:00,23:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35838,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+3,"General Surgery",35838,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+3,"General Surgery",35853,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+3,"General Surgery",35853,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+3,"General Surgery",35853,2026-03-07,Night,23:00:00,07:00:00,Doctor,"General Surgery",3,3
+3,"General Surgery",35853,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+4,"Intensive Care Unit",35554,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+4,"Intensive Care Unit",35554,2026-03-01,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35554,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+4,"Intensive Care Unit",35554,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+4,"Intensive Care Unit",35569,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35569,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+4,"Intensive Care Unit",35569,2026-03-01,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35569,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+4,"Intensive Care Unit",35584,2026-03-01,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35584,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+4,"Intensive Care Unit",35584,2026-03-01,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35584,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+4,"Intensive Care Unit",35584,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+4,"Intensive Care Unit",35599,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+4,"Intensive Care Unit",35599,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+4,"Intensive Care Unit",35599,2026-03-02,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35599,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35599,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35614,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+4,"Intensive Care Unit",35614,2026-03-02,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35614,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35614,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35629,2026-03-02,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35629,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+4,"Intensive Care Unit",35629,2026-03-02,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35629,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+4,"Intensive Care Unit",35629,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+4,"Intensive Care Unit",35644,2026-03-03,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35644,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+4,"Intensive Care Unit",35644,2026-03-03,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35644,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+4,"Intensive Care Unit",35659,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+4,"Intensive Care Unit",35659,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+4,"Intensive Care Unit",35659,2026-03-03,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35659,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",2,6
+4,"Intensive Care Unit",35659,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+4,"Intensive Care Unit",35674,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+4,"Intensive Care Unit",35674,2026-03-03,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35674,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35674,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35689,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35689,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+4,"Intensive Care Unit",35689,2026-03-04,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35689,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35689,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35704,2026-03-04,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35704,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+4,"Intensive Care Unit",35704,2026-03-04,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35704,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+4,"Intensive Care Unit",35719,2026-03-04,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+4,"Intensive Care Unit",35719,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+4,"Intensive Care Unit",35719,2026-03-04,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35719,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+4,"Intensive Care Unit",35719,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+4,"Intensive Care Unit",35734,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+4,"Intensive Care Unit",35734,2026-03-05,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35734,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",2,6
+4,"Intensive Care Unit",35734,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+4,"Intensive Care Unit",35749,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35749,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+4,"Intensive Care Unit",35749,2026-03-05,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35749,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35749,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35764,2026-03-05,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35764,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+4,"Intensive Care Unit",35764,2026-03-05,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35764,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35764,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35779,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+4,"Intensive Care Unit",35779,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+4,"Intensive Care Unit",35779,2026-03-06,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35779,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+4,"Intensive Care Unit",35794,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+4,"Intensive Care Unit",35794,2026-03-06,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35794,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+4,"Intensive Care Unit",35794,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+4,"Intensive Care Unit",35809,2026-03-06,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35809,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+4,"Intensive Care Unit",35809,2026-03-06,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35809,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+4,"Intensive Care Unit",35809,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+4,"Intensive Care Unit",35824,2026-03-07,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+4,"Intensive Care Unit",35824,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+4,"Intensive Care Unit",35824,2026-03-07,Morning,07:00:00,15:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35824,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35824,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35839,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+4,"Intensive Care Unit",35839,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+4,"Intensive Care Unit",35839,2026-03-07,Evening,15:00:00,23:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35839,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+4,"Intensive Care Unit",35839,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+4,"Intensive Care Unit",35854,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+4,"Intensive Care Unit",35854,2026-03-07,Night,23:00:00,07:00:00,Doctor,"Intensive Care",3,3
+4,"Intensive Care Unit",35854,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+12,Nephrology,35562,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+12,Nephrology,35562,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+12,Nephrology,35562,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35562,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35562,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35577,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+12,Nephrology,35577,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35577,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+12,Nephrology,35592,2026-03-01,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+12,Nephrology,35592,2026-03-01,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+12,Nephrology,35592,2026-03-01,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35592,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+12,Nephrology,35592,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+12,Nephrology,35592,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+12,Nephrology,35607,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+12,Nephrology,35607,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+12,Nephrology,35607,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35607,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+12,Nephrology,35607,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+12,Nephrology,35622,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+12,Nephrology,35622,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+12,Nephrology,35622,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35622,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35622,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35637,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+12,Nephrology,35637,2026-03-02,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35637,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35637,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35652,2026-03-03,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+12,Nephrology,35652,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+12,Nephrology,35652,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35652,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+12,Nephrology,35667,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+12,Nephrology,35667,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+12,Nephrology,35667,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35667,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+12,Nephrology,35667,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+12,Nephrology,35667,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+12,Nephrology,35682,2026-03-03,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+12,Nephrology,35682,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+12,Nephrology,35682,2026-03-03,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35682,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+12,Nephrology,35682,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+12,Nephrology,35697,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+12,Nephrology,35697,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35697,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35697,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35712,2026-03-04,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+12,Nephrology,35712,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+12,Nephrology,35712,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35712,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+12,Nephrology,35727,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+12,Nephrology,35727,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+12,Nephrology,35727,2026-03-04,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35727,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35727,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35742,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+12,Nephrology,35742,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+12,Nephrology,35742,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35742,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+12,Nephrology,35742,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+12,Nephrology,35742,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+12,Nephrology,35757,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+12,Nephrology,35757,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35757,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35757,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35772,2026-03-05,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+12,Nephrology,35772,2026-03-05,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+12,Nephrology,35772,2026-03-05,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35772,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+12,Nephrology,35772,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+12,Nephrology,35787,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+12,Nephrology,35787,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+12,Nephrology,35787,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35787,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+12,Nephrology,35802,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+12,Nephrology,35802,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+12,Nephrology,35802,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35802,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35802,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35817,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+12,Nephrology,35817,2026-03-06,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35817,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+12,Nephrology,35817,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+12,Nephrology,35817,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+12,Nephrology,35832,2026-03-07,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+12,Nephrology,35832,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+12,Nephrology,35832,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35832,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+12,Nephrology,35832,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+12,Nephrology,35847,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+12,Nephrology,35847,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+12,Nephrology,35847,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35847,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+12,Nephrology,35847,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+12,Nephrology,35862,2026-03-07,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+12,Nephrology,35862,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+12,Nephrology,35862,2026-03-07,Night,23:00:00,07:00:00,Doctor,Nephrology,3,3
+12,Nephrology,35862,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+8,Neurology,35558,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+8,Neurology,35558,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+8,Neurology,35558,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35558,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+8,Neurology,35558,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+8,Neurology,35573,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+8,Neurology,35573,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+8,Neurology,35573,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35573,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+8,Neurology,35588,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+8,Neurology,35588,2026-03-01,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+8,Neurology,35588,2026-03-01,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35588,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+8,Neurology,35588,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35588,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+8,Neurology,35603,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+8,Neurology,35603,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+8,Neurology,35603,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35603,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35603,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+8,Neurology,35618,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+8,Neurology,35618,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+8,Neurology,35618,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35618,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+8,Neurology,35618,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+8,Neurology,35633,2026-03-02,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+8,Neurology,35633,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+8,Neurology,35633,2026-03-02,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35633,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+8,Neurology,35633,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+8,Neurology,35648,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+8,Neurology,35648,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+8,Neurology,35648,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35648,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+8,Neurology,35663,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+8,Neurology,35663,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+8,Neurology,35663,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35663,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",2,6
+8,Neurology,35663,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35663,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+8,Neurology,35678,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+8,Neurology,35678,2026-03-03,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+8,Neurology,35678,2026-03-03,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35678,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35678,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+8,Neurology,35693,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+8,Neurology,35693,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+8,Neurology,35693,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35693,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+8,Neurology,35693,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+8,Neurology,35708,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+8,Neurology,35708,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+8,Neurology,35708,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35708,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+8,Neurology,35723,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+8,Neurology,35723,2026-03-04,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+8,Neurology,35723,2026-03-04,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35723,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+8,Neurology,35723,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+8,Neurology,35738,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+8,Neurology,35738,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+8,Neurology,35738,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35738,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",2,6
+8,Neurology,35738,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35738,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+8,Neurology,35753,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+8,Neurology,35753,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+8,Neurology,35753,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35753,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+8,Neurology,35753,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+8,Neurology,35768,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+8,Neurology,35768,2026-03-05,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+8,Neurology,35768,2026-03-05,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35768,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35768,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+8,Neurology,35783,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+8,Neurology,35783,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+8,Neurology,35783,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35783,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+8,Neurology,35798,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+8,Neurology,35798,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+8,Neurology,35798,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35798,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+8,Neurology,35798,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+8,Neurology,35813,2026-03-06,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+8,Neurology,35813,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+8,Neurology,35813,2026-03-06,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35813,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+8,Neurology,35813,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35813,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+8,Neurology,35828,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+8,Neurology,35828,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+8,Neurology,35828,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Neurology,3,3
+8,Neurology,35828,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+8,Neurology,35828,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+8,Neurology,35843,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+8,Neurology,35843,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+8,Neurology,35843,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Neurology,3,3
+8,Neurology,35843,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+8,Neurology,35843,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+8,Neurology,35858,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+8,Neurology,35858,2026-03-07,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+8,Neurology,35858,2026-03-07,Night,23:00:00,07:00:00,Doctor,Neurology,3,3
+8,Neurology,35858,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+10,"Obstetrics and Gynecology",35560,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+10,"Obstetrics and Gynecology",35560,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+10,"Obstetrics and Gynecology",35560,2026-03-01,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35560,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+10,"Obstetrics and Gynecology",35560,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+10,"Obstetrics and Gynecology",35575,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+10,"Obstetrics and Gynecology",35575,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+10,"Obstetrics and Gynecology",35575,2026-03-01,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35575,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+10,"Obstetrics and Gynecology",35590,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",2,2
+10,"Obstetrics and Gynecology",35590,2026-03-01,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35590,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+10,"Obstetrics and Gynecology",35590,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35590,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35605,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+10,"Obstetrics and Gynecology",35605,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+10,"Obstetrics and Gynecology",35605,2026-03-02,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35605,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+10,"Obstetrics and Gynecology",35605,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35620,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+10,"Obstetrics and Gynecology",35620,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+10,"Obstetrics and Gynecology",35620,2026-03-02,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35620,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35620,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+10,"Obstetrics and Gynecology",35635,2026-03-02,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+10,"Obstetrics and Gynecology",35635,2026-03-02,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+10,"Obstetrics and Gynecology",35635,2026-03-02,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35635,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+10,"Obstetrics and Gynecology",35635,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+10,"Obstetrics and Gynecology",35650,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",2,2
+10,"Obstetrics and Gynecology",35650,2026-03-03,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35650,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+10,"Obstetrics and Gynecology",35665,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+10,"Obstetrics and Gynecology",35665,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+10,"Obstetrics and Gynecology",35665,2026-03-03,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35665,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",2,6
+10,"Obstetrics and Gynecology",35665,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35665,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35680,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+10,"Obstetrics and Gynecology",35680,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+10,"Obstetrics and Gynecology",35680,2026-03-03,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35680,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+10,"Obstetrics and Gynecology",35680,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35695,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+10,"Obstetrics and Gynecology",35695,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+10,"Obstetrics and Gynecology",35695,2026-03-04,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35695,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35695,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+10,"Obstetrics and Gynecology",35710,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",2,2
+10,"Obstetrics and Gynecology",35710,2026-03-04,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35710,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+10,"Obstetrics and Gynecology",35725,2026-03-04,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+10,"Obstetrics and Gynecology",35725,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+10,"Obstetrics and Gynecology",35725,2026-03-04,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35725,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+10,"Obstetrics and Gynecology",35725,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+10,"Obstetrics and Gynecology",35740,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+10,"Obstetrics and Gynecology",35740,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+10,"Obstetrics and Gynecology",35740,2026-03-05,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35740,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",2,6
+10,"Obstetrics and Gynecology",35740,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35740,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35755,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+10,"Obstetrics and Gynecology",35755,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+10,"Obstetrics and Gynecology",35755,2026-03-05,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35755,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35755,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+10,"Obstetrics and Gynecology",35770,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",2,2
+10,"Obstetrics and Gynecology",35770,2026-03-05,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35770,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+10,"Obstetrics and Gynecology",35770,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35785,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+10,"Obstetrics and Gynecology",35785,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+10,"Obstetrics and Gynecology",35785,2026-03-06,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35785,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+10,"Obstetrics and Gynecology",35800,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+10,"Obstetrics and Gynecology",35800,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+10,"Obstetrics and Gynecology",35800,2026-03-06,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35800,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+10,"Obstetrics and Gynecology",35800,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+10,"Obstetrics and Gynecology",35815,2026-03-06,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+10,"Obstetrics and Gynecology",35815,2026-03-06,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+10,"Obstetrics and Gynecology",35815,2026-03-06,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35815,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",2,6
+10,"Obstetrics and Gynecology",35815,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35815,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35830,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",2,2
+10,"Obstetrics and Gynecology",35830,2026-03-07,Morning,07:00:00,15:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35830,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+10,"Obstetrics and Gynecology",35830,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+10,"Obstetrics and Gynecology",35845,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+10,"Obstetrics and Gynecology",35845,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+10,"Obstetrics and Gynecology",35845,2026-03-07,Evening,15:00:00,23:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35845,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+10,"Obstetrics and Gynecology",35845,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",2,6
+10,"Obstetrics and Gynecology",35860,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+10,"Obstetrics and Gynecology",35860,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+10,"Obstetrics and Gynecology",35860,2026-03-07,Night,23:00:00,07:00:00,Doctor,"Obstetrics and Gynecology",3,3
+10,"Obstetrics and Gynecology",35860,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35556,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+6,Oncology,35556,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35556,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35556,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35571,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+6,Oncology,35571,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35571,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35571,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35586,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+6,Oncology,35586,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35586,2026-03-01,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35586,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+6,Oncology,35586,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",5,6
+6,Oncology,35601,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35601,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+6,Oncology,35601,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35601,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+6,Oncology,35601,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+6,Oncology,35616,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+6,Oncology,35616,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35616,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35616,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+6,Oncology,35616,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+6,Oncology,35631,2026-03-02,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+6,Oncology,35631,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35631,2026-03-02,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35631,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35646,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+6,Oncology,35646,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35646,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35646,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35661,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35661,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+6,Oncology,35661,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35661,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+6,Oncology,35661,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",5,6
+6,Oncology,35676,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+6,Oncology,35676,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35676,2026-03-03,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35676,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+6,Oncology,35676,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+6,Oncology,35691,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+6,Oncology,35691,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35691,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35691,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+6,Oncology,35691,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+6,Oncology,35706,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+6,Oncology,35706,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35706,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35706,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35721,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35721,2026-03-04,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+6,Oncology,35721,2026-03-04,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35721,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35736,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+6,Oncology,35736,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35736,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35736,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+6,Oncology,35736,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",5,6
+6,Oncology,35751,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+6,Oncology,35751,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35751,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35751,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+6,Oncology,35751,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+6,Oncology,35766,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+6,Oncology,35766,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35766,2026-03-05,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35766,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+6,Oncology,35766,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+6,Oncology,35781,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35781,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+6,Oncology,35781,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35781,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35796,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+6,Oncology,35796,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35796,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35796,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+6,Oncology,35811,2026-03-06,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+6,Oncology,35811,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35811,2026-03-06,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35811,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+6,Oncology,35811,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",5,6
+6,Oncology,35826,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+6,Oncology,35826,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35826,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Oncology,3,3
+6,Oncology,35826,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+6,Oncology,35826,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+6,Oncology,35841,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+6,Oncology,35841,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+6,Oncology,35841,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Oncology,3,3
+6,Oncology,35841,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+6,Oncology,35841,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+6,Oncology,35856,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+6,Oncology,35856,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+6,Oncology,35856,2026-03-07,Night,23:00:00,07:00:00,Doctor,Oncology,3,3
+6,Oncology,35856,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35557,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+7,Orthopedics,35557,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35557,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35557,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35572,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35572,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35572,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35572,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35587,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35587,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+7,Orthopedics,35587,2026-03-01,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35587,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+7,Orthopedics,35587,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+7,Orthopedics,35587,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35602,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35602,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+7,Orthopedics,35602,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35602,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",6,6
+7,Orthopedics,35617,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+7,Orthopedics,35617,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35617,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35617,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+7,Orthopedics,35617,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35632,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35632,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35632,2026-03-02,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35632,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35647,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35647,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+7,Orthopedics,35647,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35647,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35662,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35662,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+7,Orthopedics,35662,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35662,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+7,Orthopedics,35662,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+7,Orthopedics,35662,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35677,2026-03-03,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+7,Orthopedics,35677,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35677,2026-03-03,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35677,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",6,6
+7,Orthopedics,35692,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35692,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35692,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35692,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+7,Orthopedics,35692,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35707,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35707,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+7,Orthopedics,35707,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35707,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35722,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35722,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+7,Orthopedics,35722,2026-03-04,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35722,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35737,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+7,Orthopedics,35737,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35737,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35737,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+7,Orthopedics,35737,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+7,Orthopedics,35737,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35752,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35752,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35752,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35752,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+7,Orthopedics,35752,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35767,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35767,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+7,Orthopedics,35767,2026-03-05,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35767,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",6,6
+7,Orthopedics,35782,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35782,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+7,Orthopedics,35782,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35782,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35797,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+7,Orthopedics,35797,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35797,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35797,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+7,Orthopedics,35812,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35812,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35812,2026-03-06,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35812,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+7,Orthopedics,35812,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+7,Orthopedics,35812,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35827,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35827,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+7,Orthopedics,35827,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35827,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+7,Orthopedics,35827,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+7,Orthopedics,35842,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+7,Orthopedics,35842,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+7,Orthopedics,35842,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35842,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",6,6
+7,Orthopedics,35857,2026-03-07,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+7,Orthopedics,35857,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+7,Orthopedics,35857,2026-03-07,Night,23:00:00,07:00:00,Doctor,Orthopedics,3,3
+7,Orthopedics,35857,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+5,Pediatrics,35555,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+5,Pediatrics,35555,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+5,Pediatrics,35555,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35555,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+5,Pediatrics,35555,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+5,Pediatrics,35570,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+5,Pediatrics,35570,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+5,Pediatrics,35570,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35570,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+5,Pediatrics,35585,2026-03-01,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+5,Pediatrics,35585,2026-03-01,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35585,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35585,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35585,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",2,6
+5,Pediatrics,35600,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Secretary,2,2
+5,Pediatrics,35600,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35600,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35600,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35615,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+5,Pediatrics,35615,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+5,Pediatrics,35615,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35615,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35615,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+5,Pediatrics,35615,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35630,2026-03-02,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+5,Pediatrics,35630,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+5,Pediatrics,35630,2026-03-02,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35630,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+5,Pediatrics,35630,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+5,Pediatrics,35645,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+5,Pediatrics,35645,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35645,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+5,Pediatrics,35660,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Secretary,2,2
+5,Pediatrics,35660,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35660,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35660,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35660,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",2,6
+5,Pediatrics,35675,2026-03-03,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+5,Pediatrics,35675,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+5,Pediatrics,35675,2026-03-03,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35675,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35675,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35690,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+5,Pediatrics,35690,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+5,Pediatrics,35690,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35690,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35690,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+5,Pediatrics,35690,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35705,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"IT Support",2,2
+5,Pediatrics,35705,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35705,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+5,Pediatrics,35720,2026-03-04,Night,23:00:00,07:00:00,Administrative,Secretary,2,2
+5,Pediatrics,35720,2026-03-04,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35720,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",1,6
+5,Pediatrics,35720,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",5,6
+5,Pediatrics,35735,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+5,Pediatrics,35735,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+5,Pediatrics,35735,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35735,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35735,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35735,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",2,6
+5,Pediatrics,35750,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+5,Pediatrics,35750,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+5,Pediatrics,35750,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35750,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35750,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+5,Pediatrics,35750,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35765,2026-03-05,Night,23:00:00,07:00:00,Administrative,"IT Support",2,2
+5,Pediatrics,35765,2026-03-05,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35765,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35765,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35780,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Secretary,2,2
+5,Pediatrics,35780,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35780,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+5,Pediatrics,35795,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+5,Pediatrics,35795,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+5,Pediatrics,35795,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35795,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+5,Pediatrics,35795,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+5,Pediatrics,35810,2026-03-06,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+5,Pediatrics,35810,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+5,Pediatrics,35810,2026-03-06,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35810,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35810,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35810,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",2,6
+5,Pediatrics,35825,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"IT Support",2,2
+5,Pediatrics,35825,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35825,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+5,Pediatrics,35825,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+5,Pediatrics,35825,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35840,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Secretary,2,2
+5,Pediatrics,35840,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35840,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+5,Pediatrics,35840,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+5,Pediatrics,35855,2026-03-07,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+5,Pediatrics,35855,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+5,Pediatrics,35855,2026-03-07,Night,23:00:00,07:00:00,Doctor,Pediatrics,3,3
+5,Pediatrics,35855,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+11,Psychiatry,35561,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+11,Psychiatry,35561,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35561,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35561,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35561,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35576,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+11,Psychiatry,35576,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+11,Psychiatry,35576,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35576,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+11,Psychiatry,35591,2026-03-01,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35591,2026-03-01,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35591,2026-03-01,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35591,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+11,Psychiatry,35591,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+11,Psychiatry,35591,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+11,Psychiatry,35606,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35606,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35606,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35606,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35606,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35621,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+11,Psychiatry,35621,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35621,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35621,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+11,Psychiatry,35621,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+11,Psychiatry,35636,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+11,Psychiatry,35636,2026-03-02,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+11,Psychiatry,35636,2026-03-02,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35636,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35636,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35651,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35651,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35651,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35651,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+11,Psychiatry,35666,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35666,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35666,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35666,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+11,Psychiatry,35666,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+11,Psychiatry,35666,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+11,Psychiatry,35681,2026-03-03,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+11,Psychiatry,35681,2026-03-03,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35681,2026-03-03,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35681,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35681,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35696,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+11,Psychiatry,35696,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+11,Psychiatry,35696,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35696,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+11,Psychiatry,35696,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+11,Psychiatry,35711,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35711,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35711,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35711,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+11,Psychiatry,35726,2026-03-04,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35726,2026-03-04,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35726,2026-03-04,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35726,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35726,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35741,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"Billing Officer",1,2
+11,Psychiatry,35741,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35741,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35741,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+11,Psychiatry,35741,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+11,Psychiatry,35741,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+11,Psychiatry,35756,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+11,Psychiatry,35756,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+11,Psychiatry,35756,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35756,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+11,Psychiatry,35756,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+11,Psychiatry,35771,2026-03-05,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35771,2026-03-05,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35771,2026-03-05,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35771,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35771,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35786,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35786,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35786,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35786,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+11,Psychiatry,35801,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"Billing Officer",1,2
+11,Psychiatry,35801,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35801,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35801,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35801,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35816,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+11,Psychiatry,35816,2026-03-06,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+11,Psychiatry,35816,2026-03-06,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35816,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+11,Psychiatry,35816,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+11,Psychiatry,35816,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+11,Psychiatry,35831,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35831,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35831,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35831,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+11,Psychiatry,35831,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+11,Psychiatry,35846,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35846,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+11,Psychiatry,35846,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35846,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+11,Psychiatry,35846,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+11,Psychiatry,35861,2026-03-07,Night,23:00:00,07:00:00,Administrative,"Billing Officer",1,2
+11,Psychiatry,35861,2026-03-07,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+11,Psychiatry,35861,2026-03-07,Night,23:00:00,07:00:00,Doctor,Psychiatry,3,3
+11,Psychiatry,35861,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+14,Pulmonology,35564,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35564,2026-03-01,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+14,Pulmonology,35564,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35564,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35564,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35579,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35579,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+14,Pulmonology,35579,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35579,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+14,Pulmonology,35594,2026-03-01,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35594,2026-03-01,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35594,2026-03-01,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35594,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35594,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+14,Pulmonology,35594,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+14,Pulmonology,35609,2026-03-02,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35609,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+14,Pulmonology,35609,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35609,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35609,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35624,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35624,2026-03-02,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+14,Pulmonology,35624,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35624,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35624,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+14,Pulmonology,35639,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35639,2026-03-02,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+14,Pulmonology,35639,2026-03-02,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35639,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35639,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35654,2026-03-03,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35654,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35654,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35654,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+14,Pulmonology,35669,2026-03-03,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35669,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+14,Pulmonology,35669,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35669,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35669,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+14,Pulmonology,35669,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+14,Pulmonology,35684,2026-03-03,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35684,2026-03-03,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+14,Pulmonology,35684,2026-03-03,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35684,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35684,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35699,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35699,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+14,Pulmonology,35699,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35699,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35699,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+14,Pulmonology,35714,2026-03-04,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35714,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35714,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35714,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+14,Pulmonology,35729,2026-03-04,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35729,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+14,Pulmonology,35729,2026-03-04,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35729,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35729,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35744,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35744,2026-03-05,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+14,Pulmonology,35744,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35744,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35744,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+14,Pulmonology,35744,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+14,Pulmonology,35759,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35759,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+14,Pulmonology,35759,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35759,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35759,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+14,Pulmonology,35774,2026-03-05,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35774,2026-03-05,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35774,2026-03-05,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35774,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35774,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35789,2026-03-06,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35789,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+14,Pulmonology,35789,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35789,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+14,Pulmonology,35804,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35804,2026-03-06,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+14,Pulmonology,35804,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35804,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35804,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35819,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35819,2026-03-06,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+14,Pulmonology,35819,2026-03-06,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35819,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35819,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+14,Pulmonology,35819,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+14,Pulmonology,35834,2026-03-07,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35834,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"Admissions Clerk",1,2
+14,Pulmonology,35834,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35834,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+14,Pulmonology,35834,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+14,Pulmonology,35849,2026-03-07,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35849,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+14,Pulmonology,35849,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35849,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",3,6
+14,Pulmonology,35849,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+14,Pulmonology,35864,2026-03-07,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+14,Pulmonology,35864,2026-03-07,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+14,Pulmonology,35864,2026-03-07,Night,23:00:00,07:00:00,Doctor,Pulmonology,3,3
+14,Pulmonology,35864,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6
+9,Radiology,35559,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+9,Radiology,35559,2026-03-01,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+9,Radiology,35559,2026-03-01,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35559,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35559,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35559,2026-03-01,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",3,6
+9,Radiology,35574,2026-03-01,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35574,2026-03-01,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+9,Radiology,35574,2026-03-01,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35574,2026-03-01,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+9,Radiology,35589,2026-03-01,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+9,Radiology,35589,2026-03-01,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+9,Radiology,35589,2026-03-01,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35589,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35589,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+9,Radiology,35589,2026-03-01,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+9,Radiology,35604,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35604,2026-03-02,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+9,Radiology,35604,2026-03-02,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35604,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35604,2026-03-02,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",4,6
+9,Radiology,35619,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+9,Radiology,35619,2026-03-02,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+9,Radiology,35619,2026-03-02,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35619,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+9,Radiology,35619,2026-03-02,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+9,Radiology,35634,2026-03-02,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35634,2026-03-02,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+9,Radiology,35634,2026-03-02,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35634,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35634,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35634,2026-03-02,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+9,Radiology,35649,2026-03-03,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+9,Radiology,35649,2026-03-03,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+9,Radiology,35649,2026-03-03,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35649,2026-03-03,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+9,Radiology,35664,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35664,2026-03-03,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+9,Radiology,35664,2026-03-03,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35664,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35664,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",4,6
+9,Radiology,35664,2026-03-03,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",1,6
+9,Radiology,35679,2026-03-03,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+9,Radiology,35679,2026-03-03,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+9,Radiology,35679,2026-03-03,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35679,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35679,2026-03-03,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+9,Radiology,35694,2026-03-04,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35694,2026-03-04,Morning,07:00:00,15:00:00,Administrative,Secretary,1,2
+9,Radiology,35694,2026-03-04,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35694,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+9,Radiology,35694,2026-03-04,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+9,Radiology,35709,2026-03-04,Evening,15:00:00,23:00:00,Administrative,Accountant,1,2
+9,Radiology,35709,2026-03-04,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+9,Radiology,35709,2026-03-04,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35709,2026-03-04,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",6,6
+9,Radiology,35724,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35724,2026-03-04,Night,23:00:00,07:00:00,Administrative,"Ward Coordinator",1,2
+9,Radiology,35724,2026-03-04,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35724,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35724,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35724,2026-03-04,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",3,6
+9,Radiology,35739,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"HR Officer",1,2
+9,Radiology,35739,2026-03-05,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+9,Radiology,35739,2026-03-05,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35739,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35739,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",4,6
+9,Radiology,35739,2026-03-05,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",1,6
+9,Radiology,35754,2026-03-05,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35754,2026-03-05,Evening,15:00:00,23:00:00,Administrative,Secretary,1,2
+9,Radiology,35754,2026-03-05,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35754,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",1,6
+9,Radiology,35754,2026-03-05,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",5,6
+9,Radiology,35769,2026-03-05,Night,23:00:00,07:00:00,Administrative,Accountant,1,2
+9,Radiology,35769,2026-03-05,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+9,Radiology,35769,2026-03-05,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35769,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35769,2026-03-05,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",4,6
+9,Radiology,35784,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35784,2026-03-06,Morning,07:00:00,15:00:00,Administrative,"Ward Coordinator",1,2
+9,Radiology,35784,2026-03-06,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35784,2026-03-06,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",6,6
+9,Radiology,35799,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"HR Officer",1,2
+9,Radiology,35799,2026-03-06,Evening,15:00:00,23:00:00,Administrative,"IT Support",1,2
+9,Radiology,35799,2026-03-06,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35799,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35799,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35799,2026-03-06,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",3,6
+9,Radiology,35814,2026-03-06,Night,23:00:00,07:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35814,2026-03-06,Night,23:00:00,07:00:00,Administrative,Secretary,1,2
+9,Radiology,35814,2026-03-06,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35814,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Head Nurse",1,6
+9,Radiology,35814,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Nursing Assistant",4,6
+9,Radiology,35814,2026-03-06,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",1,6
+9,Radiology,35829,2026-03-07,Morning,07:00:00,15:00:00,Administrative,Accountant,1,2
+9,Radiology,35829,2026-03-07,Morning,07:00:00,15:00:00,Administrative,"IT Support",1,2
+9,Radiology,35829,2026-03-07,Morning,07:00:00,15:00:00,Doctor,Radiology,3,3
+9,Radiology,35829,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Nursing Assistant",1,6
+9,Radiology,35829,2026-03-07,Morning,07:00:00,15:00:00,Nurse,"Registered Nurse",5,6
+9,Radiology,35844,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Records Officer",1,2
+9,Radiology,35844,2026-03-07,Evening,15:00:00,23:00:00,Administrative,"Ward Coordinator",1,2
+9,Radiology,35844,2026-03-07,Evening,15:00:00,23:00:00,Doctor,Radiology,3,3
+9,Radiology,35844,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Nursing Assistant",2,6
+9,Radiology,35844,2026-03-07,Evening,15:00:00,23:00:00,Nurse,"Registered Nurse",4,6
+9,Radiology,35859,2026-03-07,Night,23:00:00,07:00:00,Administrative,"HR Officer",1,2
+9,Radiology,35859,2026-03-07,Night,23:00:00,07:00:00,Administrative,"IT Support",1,2
+9,Radiology,35859,2026-03-07,Night,23:00:00,07:00:00,Doctor,Radiology,3,3
+9,Radiology,35859,2026-03-07,Night,23:00:00,07:00:00,Nurse,"Registered Nurse",6,6

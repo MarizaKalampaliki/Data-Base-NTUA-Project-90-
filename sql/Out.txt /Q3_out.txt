@@ -1,0 +1,8 @@
+patient_amka,patient_first_name,patient_last_name,department_id,department_name,hospitalizations_count,total_hospitalization_cost
+80310934766,Julia,Roberts,3,"General Surgery",5,23717.40
+68477600839,Brad,Pitt,2,Cardiology,4,56127.00
+85653393401,Tom,Hanks,7,Orthopedics,4,39736.00
+75749680712,Cate,Blanchett,7,Orthopedics,4,38548.00
+18711797819,Meryl,Streep,7,Orthopedics,4,32407.00
+67722666093,Denzel,Washington,2,Cardiology,4,10309.50
+85708092955,Leonardo,DiCaprio,2,Cardiology,4,7381.38

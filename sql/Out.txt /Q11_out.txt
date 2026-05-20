@@ -1,0 +1,293 @@
+doctor_amka,first_name,last_name,speciality,rank,total_surgeries,max_total_surgeries,surgeries_less_than_top
+42086369317,Jessica,Adams,Nephrology,Resident,0,9,9
+42273054800,Lucas,Adams,Endocrinology,"Attending B",0,9,9
+32490078656,Reed,Adamson,Pulmonology,"Attending B",0,9,9
+92351820356,Juan,Alvarez,Pediatrics,"Attending A",0,9,9
+36054081665,Jackson,Avery,Gastroenterology,"Attending A",0,9,9
+70000113008,Callie,Bailey,Gastroenterology,"Attending B",0,9,9
+70000114013,Erica,Bailey,Pulmonology,"Attending A",0,9,9
+70000114009,Henry,Bailey,Pulmonology,"Attending B",0,9,9
+70000114001,Penelope,Bailey,Pulmonology,Resident,0,9,9
+70000115011,Preston,Bailey,Endocrinology,"Attending A",0,9,9
+58293833828,Kai,Bartley,Endocrinology,"Attending B",0,9,9
+19388046742,Penelope,Blake,Radiology,"Attending B",0,9,9
+92903679846,Lauren,Boswell,Neurology,"Attending B",0,9,9
+59111077388,Travis,Brennan,Pediatrics,"Attending A",0,9,9
+22926432934,Allison,Cameron,"General Surgery",Resident,0,9,9
+88895181912,Robert,Chase,Endocrinology,"Attending A",0,9,9
+48527577250,Jeffrey,Cole,Radiology,Resident,0,9,9
+76612908200,Andrew,DeLuca,Orthopedics,"Attending A",0,9,9
+34169696708,Carina,DeLuca,"Emergency Medicine","Attending A",0,9,9
+56904353669,Jody,Desai,Oncology,"Attending A",0,9,9
+91172754729,Henry,Dobson,Oncology,"Attending A",0,9,9
+61812456976,Stephanie,Edwards,Gastroenterology,"Attending A",0,9,9
+96461212064,Eric,Foreman,Pulmonology,"Attending A",0,9,9
+80767267818,Catherine,Fox,Oncology,"Attending B",0,9,9
+79637317274,Evan,Greer,"Obstetrics and Gynecology",Resident,0,9,9
+70000101004,Alex,Grey,"Emergency Medicine",Resident,0,9,9
+70000105002,Allison,Grey,Pediatrics,Resident,0,9,9
+70000105009,Amber,Grey,Pediatrics,"Attending B",0,9,9
+70000102000,Amelia,Grey,Cardiology,Resident,0,9,9
+70000102003,Andrew,Grey,Cardiology,Resident,0,9,9
+70000101014,April,Grey,"Emergency Medicine","Attending A",0,9,9
+70000101011,Arizona,Grey,"Emergency Medicine","Attending B",0,9,9
+70000102010,Atticus,Grey,Cardiology,"Attending A",0,9,9
+70000102008,Ben,Grey,Cardiology,"Attending B",0,9,9
+70000106005,Benjamin,Grey,Oncology,Resident,0,9,9
+70000103007,Benson,Grey,"General Surgery","Attending B",0,9,9
+70000102004,Carina,Grey,Cardiology,Resident,0,9,9
+70000104004,Casey,Grey,"Intensive Care","Attending B",0,9,9
+70000101010,Catherine,Grey,"Emergency Medicine","Attending B",0,9,9
+70000103010,Charles,Grey,"General Surgery","Attending A",0,9,9
+70000105008,Chi,Grey,Pediatrics,"Attending B",0,9,9
+70000103000,Cormac,Grey,"General Surgery",Resident,0,9,9
+70000101000,Cristina,Grey,"Emergency Medicine",Resident,0,9,9
+70000104005,Dahlia,Grey,"Intensive Care","Attending B",0,9,9
+70000101001,Derek,Grey,"Emergency Medicine",Resident,0,9,9
+70000106009,Elijah,Grey,Oncology,"Attending B",0,9,9
+70000104000,Eliza,Grey,"Intensive Care",Resident,0,9,9
+70000106006,Ella,Grey,Oncology,"Attending B",0,9,9
+70000106014,Emma,Grey,Oncology,Director,0,9,9
+70000105001,Eric,Grey,Pediatrics,Resident,0,9,9
+70000103008,Erica,Grey,"General Surgery","Attending B",0,9,9
+70000101005,George,Grey,"Emergency Medicine",Resident,0,9,9
+70000106007,Grace,Grey,Oncology,"Attending B",0,9,9
+70000104010,Gregory,Grey,"Intensive Care","Attending A",0,9,9
+70000105012,Henry,Grey,Pediatrics,"Attending A",0,9,9
+70000101006,Izzie,Grey,"Emergency Medicine",Resident,0,9,9
+70000104011,James,Grey,"Intensive Care",Director,0,9,9
+70000105010,Jeffrey,Grey,Pediatrics,"Attending B",0,9,9
+70000105007,Jessica,Grey,Pediatrics,"Attending B",0,9,9
+70000102002,Jo,Grey,Cardiology,Resident,0,9,9
+70000105014,Jody,Grey,Pediatrics,Director,0,9,9
+70000106001,Juan,Grey,Oncology,Resident,0,9,9
+70000104007,Kai,Grey,"Intensive Care","Attending B",0,9,9
+70000104008,Lauren,Grey,"Intensive Care","Attending A",0,9,9
+70000105004,Lawrence,Grey,Pediatrics,Resident,0,9,9
+70000102006,Leah,Grey,Cardiology,"Attending B",0,9,9
+70000102012,Levi,Grey,Cardiology,"Attending A",0,9,9
+43738332710,Lexie,Grey,Nephrology,Director,0,9,9
+70000105000,Lisa,Grey,Pediatrics,Resident,0,9,9
+70000106002,Logan,Grey,Oncology,Resident,0,9,9
+70000103004,Lucas,Grey,"General Surgery",Resident,0,9,9
+70000101009,Mark,Grey,"Emergency Medicine","Attending B",0,9,9
+70000105006,Martha,Grey,Pediatrics,"Attending B",0,9,9
+70000106010,Mason,Grey,Oncology,"Attending B",0,9,9
+70000104009,Megan,Grey,"Intensive Care","Attending A",0,9,9
+70000106000,Michael,Grey,Oncology,Resident,0,9,9
+70000104006,Michelle,Grey,"Intensive Care","Attending B",0,9,9
+70000103005,Mika,Grey,"General Surgery","Attending B",0,9,9
+70000101002,Miranda,Grey,"Emergency Medicine",Resident,0,9,9
+70000102009,Nathan,Grey,Cardiology,"Attending B",0,9,9
+70000103002,Nick,Grey,"General Surgery",Resident,0,9,9
+70000106004,Olivia,Grey,Oncology,Resident,0,9,9
+70000101007,Preston,Grey,"Emergency Medicine","Attending B",0,9,9
+70000103011,Reed,Grey,"General Surgery","Attending A",0,9,9
+70000105005,Remy,Grey,Pediatrics,Resident,0,9,9
+70000101003,Richard,Grey,"Emergency Medicine",Resident,0,9,9
+70000103012,Robert,Grey,"General Surgery","Attending A",0,9,9
+70000104002,Sam,Grey,"Intensive Care",Resident,0,9,9
+70000102007,Shane,Grey,Cardiology,"Attending B",0,9,9
+70000103003,Simone,Grey,"General Surgery",Resident,0,9,9
+70000102013,Taryn,Grey,Cardiology,Director,0,9,9
+70000101013,Teddy,Grey,"Emergency Medicine","Attending A",0,9,9
+70000102011,Tom,Grey,Cardiology,"Attending A",0,9,9
+70000105011,Travis,Grey,Pediatrics,"Attending A",0,9,9
+70000103001,Winston,Grey,"General Surgery",Resident,0,9,9
+17005533878,Simone,Griffith,"Intensive Care","Attending B",0,9,9
+11770791023,Remy,Hadley,Nephrology,Resident,0,9,9
+26585757278,Erica,Hahn,"Emergency Medicine","Attending B",0,9,9
+62878418842,Cormac,Hayes,"Obstetrics and Gynecology","Attending A",0,9,9
+45068953259,Taryn,Helm,"General Surgery","Attending A",0,9,9
+77510049482,Nicole,Herman,Orthopedics,"Attending B",0,9,9
+29555946647,Gregory,House,Cardiology,"Attending B",0,9,9
+51036704342,Megan,Hunt,Gastroenterology,"Attending B",0,9,9
+34202047459,Owen,Hunt,Endocrinology,Director,0,9,9
+71554279868,Olivia,Johnson,Nephrology,"Attending B",0,9,9
+40305022733,April,Kepner,"Intensive Care","Attending A",0,9,9
+52119777069,Tom,Koracick,"Obstetrics and Gynecology","Attending A",0,9,9
+69591437379,Lawrence,Kutner,Psychiatry,"Attending A",0,9,9
+71895212988,Benson,Kwan,Psychiatry,"Attending B",0,9,9
+79634967531,Michelle,Lin,"Obstetrics and Gynecology","Attending B",0,9,9
+82681300933,Atticus,Lincoln,"General Surgery","Attending A",0,9,9
+85541210722,Nick,Marsh,"Intensive Care","Attending A",0,9,9
+45425608546,Martha,Masters,Endocrinology,Resident,0,9,9
+37518113010,Jules,Millin,"Intensive Care","Attending B",0,9,9
+86174411141,Eliza,Minnick,Pediatrics,"Attending B",0,9,9
+25980378553,Leah,Murphy,Neurology,"Attending A",0,9,9
+72352513460,Winston,Ndugu,Psychiatry,"Attending A",0,9,9
+43807075019,Chi,Park,Endocrinology,Resident,0,9,9
+41414180506,Casey,Parker,Oncology,"Attending B",0,9,9
+96116621144,Charles,Percy,Pulmonology,"Attending B",0,9,9
+81463743911,Nathan,Riggs,Pulmonology,"Attending A",0,9,9
+37295679827,Arizona,Robbins,Pulmonology,Director,0,9,9
+55702582931,Shane,Ross,Radiology,"Attending A",0,9,9
+86281205445,Levi,Schmitt,"Intensive Care","Attending A",0,9,9
+70000109000,Addison,Shepherd,Radiology,Resident,0,9,9
+70000113012,Amber,Shepherd,Gastroenterology,"Attending A",0,9,9
+70000111010,Andrew,Shepherd,Psychiatry,"Attending A",0,9,9
+70000112008,Arizona,Shepherd,Nephrology,"Attending B",0,9,9
+70000112004,Atticus,Shepherd,Nephrology,Resident,0,9,9
+70000113010,Ben,Shepherd,Gastroenterology,"Attending A",0,9,9
+70000113001,Benjamin,Shepherd,Gastroenterology,Resident,0,9,9
+70000114012,Charles,Shepherd,Pulmonology,"Attending A",0,9,9
+70000114011,Chris,Shepherd,Pulmonology,"Attending A",0,9,9
+70000115010,Diane,Shepherd,Endocrinology,"Attending A",0,9,9
+70000114004,Elijah,Shepherd,Pulmonology,Resident,0,9,9
+70000114014,Eliza,Shepherd,Pulmonology,Director,0,9,9
+70000115005,Ella,Shepherd,Endocrinology,"Attending B",0,9,9
+70000115012,Emma,Shepherd,Endocrinology,Director,0,9,9
+70000113003,Eric,Shepherd,Gastroenterology,Resident,0,9,9
+70000114007,Erica,Shepherd,Pulmonology,"Attending B",0,9,9
+70000114000,Evan,Shepherd,Pulmonology,Resident,0,9,9
+70000111003,Grace,Shepherd,Psychiatry,Resident,0,9,9
+70000112003,Gregory,Shepherd,Nephrology,Resident,0,9,9
+70000114008,Henry,Shepherd,Pulmonology,"Attending B",0,9,9
+70000111008,Izzie,Shepherd,Psychiatry,"Attending B",0,9,9
+70000115009,Juan,Shepherd,Endocrinology,"Attending A",0,9,9
+70000114006,Jules,Shepherd,Pulmonology,"Attending B",0,9,9
+70000112009,Kai,Shepherd,Nephrology,"Attending B",0,9,9
+70000112010,Leah,Shepherd,Nephrology,"Attending A",0,9,9
+70000110008,Liam,Shepherd,"Obstetrics and Gynecology","Attending A",0,9,9
+70000115004,Lisa,Shepherd,Endocrinology,"Attending B",0,9,9
+70000113002,Logan,Shepherd,Gastroenterology,Resident,0,9,9
+70000114005,Lucas,Shepherd,Pulmonology,Resident,0,9,9
+70000111007,Meredith,Shepherd,Psychiatry,"Attending B",0,9,9
+70000115008,Michael,Shepherd,Endocrinology,"Attending B",0,9,9
+70000112013,Mika,Shepherd,Nephrology,Director,0,9,9
+70000112006,Miranda,Shepherd,Nephrology,"Attending B",0,9,9
+70000114003,Nathan,Shepherd,Pulmonology,Resident,0,9,9
+70000112005,Nick,Shepherd,Nephrology,"Attending B",0,9,9
+70000114002,Olivia,Shepherd,Pulmonology,Resident,0,9,9
+70000111009,Owen,Shepherd,Psychiatry,"Attending A",0,9,9
+70000115001,Penelope,Shepherd,Endocrinology,Resident,0,9,9
+70000112001,Reed,Shepherd,Nephrology,Resident,0,9,9
+70000115002,Sam,Shepherd,Endocrinology,Resident,0,9,9
+70000113006,Samira,Shepherd,Gastroenterology,"Attending B",0,9,9
+70000111000,Simone,Shepherd,Psychiatry,Resident,0,9,9
+70000113007,Sydney,Shepherd,Gastroenterology,"Attending B",0,9,9
+70000113004,Tom,Shepherd,Gastroenterology,Resident,0,9,9
+70000112002,Vikram,Shepherd,Nephrology,Resident,0,9,9
+70000113005,Winston,Shepherd,Gastroenterology,"Attending B",0,9,9
+31726673616,Robert,Stark,Neurology,"Attending B",0,9,9
+37306582726,Chris,Taub,Orthopedics,Resident,0,9,9
+38650131267,Samira,Terzi,"Emergency Medicine","Attending A",0,9,9
+91441929862,Alexander,Thomas,Cardiology,Resident,0,9,9
+97846728339,Callie,Torres,Gastroenterology,Director,0,9,9
+54703707157,Michael,Tritter,Psychiatry,Resident,0,9,9
+47681150998,Amber,Volakis,Psychiatry,Resident,0,9,9
+97110385683,Sophia,Walker,Cardiology,"Attending B",0,9,9
+79486780724,Ben,Warren,Orthopedics,"Attending A",0,9,9
+68345352569,Jo,Wilson,Radiology,"Attending A",0,9,9
+70000108010,Abigail,Yang,Neurology,"Attending B",0,9,9
+70000108003,Alexander,Yang,Neurology,Resident,0,9,9
+70000109005,Allison,Yang,Radiology,"Attending B",0,9,9
+70000108006,Amber,Yang,Neurology,"Attending B",0,9,9
+70000109003,Andrew,Yang,Radiology,Resident,0,9,9
+70000109006,Atticus,Yang,Radiology,"Attending B",0,9,9
+70000107006,Ben,Yang,Orthopedics,"Attending B",0,9,9
+70000108004,Benjamin,Yang,Neurology,Resident,0,9,9
+70000107008,Benson,Yang,Orthopedics,"Attending B",0,9,9
+70000106013,Callie,Yang,Oncology,"Attending A",0,9,9
+70000112011,Carina,Yang,Nephrology,"Attending A",0,9,9
+70000108008,Charles,Yang,Neurology,"Attending B",0,9,9
+70000110004,Chris,Yang,"Obstetrics and Gynecology","Attending B",0,9,9
+70000107001,Cormac,Yang,Orthopedics,Resident,0,9,9
+70000107002,Derek,Yang,Orthopedics,Resident,0,9,9
+70000111001,Diane,Yang,Psychiatry,Resident,0,9,9
+70000110010,Elijah,Yang,"Obstetrics and Gynecology","Attending A",0,9,9
+70000111004,Ella,Yang,Psychiatry,"Attending B",0,9,9
+70000110006,Ellis,Yang,"Obstetrics and Gynecology","Attending B",0,9,9
+70000108012,Emma,Yang,Neurology,"Attending A",0,9,9
+70000110005,Erica,Yang,"Obstetrics and Gynecology","Attending B",0,9,9
+70000111002,Evan,Yang,Psychiatry,Resident,0,9,9
+70000108001,George,Yang,Neurology,Resident,0,9,9
+70000108005,Grace,Yang,Neurology,Resident,0,9,9
+70000110000,Gregory,Yang,"Obstetrics and Gynecology",Resident,0,9,9
+70000109008,Henry,Yang,Radiology,"Attending B",0,9,9
+70000109001,Jackson,Yang,Radiology,Resident,0,9,9
+70000108013,Jeffrey,Yang,Neurology,"Attending A",0,9,9
+70000107005,Jo,Yang,Orthopedics,"Attending B",0,9,9
+70000108007,Jody,Yang,Neurology,"Attending B",0,9,9
+70000110009,Kai,Yang,"Obstetrics and Gynecology","Attending A",0,9,9
+70000109013,Lauren,Yang,Radiology,Director,0,9,9
+70000109007,Levi,Yang,Radiology,"Attending B",0,9,9
+70000107012,Liam,Yang,Orthopedics,"Attending A",0,9,9
+70000110001,Lisa,Yang,"Obstetrics and Gynecology",Resident,0,9,9
+70000108014,Logan,Yang,Neurology,Director,0,9,9
+70000109009,Lucas,Yang,Radiology,"Attending B",0,9,9
+70000109002,Maggie,Yang,Radiology,Resident,0,9,9
+70000108002,Mark,Yang,Neurology,Resident,0,9,9
+70000110003,Martha,Yang,"Obstetrics and Gynecology","Attending B",0,9,9
+70000110011,Mason,Yang,"Obstetrics and Gynecology",Director,0,9,9
+70000107011,Megan,Yang,Orthopedics,"Attending A",0,9,9
+70000109012,Michelle,Yang,Radiology,"Attending A",0,9,9
+70000111005,Miranda,Yang,Psychiatry,"Attending B",0,9,9
+70000106011,Nick,Yang,Oncology,"Attending A",0,9,9
+70000109010,Olivia,Yang,Radiology,"Attending A",0,9,9
+70000107009,Robert,Yang,Orthopedics,"Attending B",0,9,9
+70000111012,Sam,Yang,Psychiatry,Director,0,9,9
+70000111006,Samira,Yang,Psychiatry,"Attending B",0,9,9
+70000107000,Shane,Yang,Orthopedics,Resident,0,9,9
+70000109004,Stephanie,Yang,Radiology,Resident,0,9,9
+70000110007,Sydney,Yang,"Obstetrics and Gynecology","Attending B",0,9,9
+70000111011,Teddy,Yang,Psychiatry,"Attending A",0,9,9
+70000107013,Winston,Yang,Orthopedics,Director,0,9,9
+91099217763,Mika,Yasuda,Neurology,"Attending B",0,9,9
+99873870754,Teddy,Altman,"Intensive Care","Attending A",1,9,8
+70000115006,Cormac,Bailey,Endocrinology,"Attending B",1,9,8
+70000115003,Jackson,Bailey,Endocrinology,Resident,1,9,8
+91133166233,Sam,Bello,Psychiatry,"Attending B",1,9,8
+18808114191,Lisa,Cuddy,Radiology,Resident,1,9,8
+66737302593,Diane,Grad,Orthopedics,Resident,1,9,8
+70000104001,Abigail,Grey,"Intensive Care",Resident,1,9,8
+70000101008,Addison,Grey,"Emergency Medicine","Attending B",1,9,8
+70000106008,Alexander,Grey,Oncology,"Attending B",1,9,8
+29106649725,Ellis,Grey,"Intensive Care","Attending B",1,9,8
+70000101015,Jackson,Grey,"Emergency Medicine",Director,1,9,8
+70000103006,Jules,Grey,"General Surgery","Attending B",1,9,8
+70000105003,Liam,Grey,Pediatrics,Resident,1,9,8
+70000102001,Maggie,Grey,Cardiology,Resident,1,9,8
+70000103013,Nicole,Grey,"General Surgery",Director,1,9,8
+70000101012,Owen,Grey,"Emergency Medicine","Attending A",1,9,8
+70000105013,Samira,Grey,Pediatrics,"Attending A",1,9,8
+70000106003,Sophia,Grey,Oncology,Resident,1,9,8
+70000102005,Stephanie,Grey,Cardiology,"Attending B",1,9,8
+70000104003,Vikram,Grey,"Intensive Care","Attending B",1,9,8
+22555330172,Sydney,Heron,Pediatrics,"Attending B",1,9,8
+28317520862,Maggie,Pierce,Endocrinology,"Attending A",1,9,8
+10311570307,Dahlia,Qadri,"General Surgery","Attending B",1,9,8
+90132807570,Vikram,Roy,"Obstetrics and Gynecology","Attending B",1,9,8
+70000113009,Abigail,Shepherd,Gastroenterology,"Attending B",1,9,8
+70000113000,Alex,Shepherd,Gastroenterology,Resident,1,9,8
+70000115000,Catherine,Shepherd,Endocrinology,Resident,1,9,8
+70000112012,Cormac,Shepherd,Nephrology,"Attending A",1,9,8
+70000112000,Cristina,Shepherd,Nephrology,Resident,1,9,8
+70000115007,Jody,Shepherd,Endocrinology,"Attending B",1,9,8
+70000114010,Mason,Shepherd,Pulmonology,"Attending B",1,9,8
+70000109011,Nicole,Shepherd,Radiology,"Attending A",1,9,8
+70000112007,Preston,Shepherd,Nephrology,"Attending B",1,9,8
+70000113011,Remy,Shepherd,Gastroenterology,"Attending A",1,9,8
+70000113013,Sophia,Shepherd,Gastroenterology,Director,1,9,8
+50640200729,Amelia,Taylor,Gastroenterology,"Attending B",1,9,8
+98852123602,James,Wilson,"Obstetrics and Gynecology","Attending B",1,9,8
+70000106012,Alex,Yang,Oncology,"Attending A",1,9,8
+70000110002,Amelia,Yang,"Obstetrics and Gynecology",Resident,1,9,8
+70000107007,Chi,Yang,Orthopedics,"Attending B",1,9,8
+70000108009,Eliza,Yang,Neurology,"Attending B",1,9,8
+70000108000,Jules,Yang,Neurology,"Attending A",1,9,8
+70000107004,Owen,Yang,Orthopedics,Resident,1,9,8
+70000107003,Preston,Yang,Orthopedics,Resident,1,9,8
+70000108011,Sophia,Yang,Neurology,"Attending A",1,9,8
+70000107010,Vikram,Yang,Orthopedics,"Attending A",1,9,8
+11112294209,Alexander,Adams,Nephrology,"Attending A",2,9,7
+84987658854,Preston,Burke,Radiology,Director,2,9,7
+70000103009,Diane,Grey,"General Surgery","Attending B",2,9,7
+78086460793,Logan,Martin,Nephrology,"Attending A",2,9,7
+51025702129,Addison,Montgomery,"Obstetrics and Gynecology",Director,2,9,7
+77239597077,Amelia,Shepherd,"Obstetrics and Gynecology","Attending A",2,9,7
+14593704402,Mark,Sloan,Psychiatry,Director,2,9,7
+42797487947,Samira,Johnson,Cardiology,"Attending A",3,9,6
+76816215578,Henry,Brown,Gastroenterology,"Attending A",4,9,5
+42337237532,Martha,Clark,Cardiology,"Attending A",4,9,5
+60884600851,Izzie,Stevens,Neurology,Director,4,9,5

@@ -1,0 +1,11 @@
+doctor_amka,first_name,last_name,speciality,rank,age,surgeries_as_head_doctor
+68175080694,Miranda,Bailey,"Intensive Care",Director,29,6
+36172221786,Derek,Shepherd,"General Surgery",Director,30,5
+60884600851,Izzie,Stevens,Neurology,Director,33,4
+84987658854,Preston,Burke,Radiology,Director,29,2
+96461212064,Eric,Foreman,Pulmonology,"Attending A",27,1
+11770791023,Remy,Hadley,Nephrology,Resident,29,1
+66737302593,Diane,Grad,Orthopedics,Resident,30,1
+18808114191,Lisa,Cuddy,Radiology,Resident,31,1
+90132807570,Vikram,Roy,"Obstetrics and Gynecology","Attending B",33,1
+34169696708,Carina,DeLuca,"Emergency Medicine","Attending A",34,1

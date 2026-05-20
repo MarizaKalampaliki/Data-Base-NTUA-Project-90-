@@ -1,0 +1,80 @@
+priority_level,total_triage_cases,average_waiting_minutes,hospitalization_percentage,department_id,department_name,cases_per_department,department_distribution_percentage
+1,135,30.58,66.67,0,"Χωρίς νοσηλεία",45,33.33
+1,135,30.58,66.67,10,"Obstetrics and Gynecology",10,7.41
+1,135,30.58,66.67,11,Psychiatry,10,7.41
+1,135,30.58,66.67,8,Neurology,9,6.67
+1,135,30.58,66.67,3,"General Surgery",8,5.93
+1,135,30.58,66.67,7,Orthopedics,8,5.93
+1,135,30.58,66.67,15,Endocrinology,6,4.44
+1,135,30.58,66.67,4,"Intensive Care Unit",6,4.44
+1,135,30.58,66.67,5,Pediatrics,6,4.44
+1,135,30.58,66.67,2,Cardiology,5,3.70
+1,135,30.58,66.67,1,"Emergency Department",5,3.70
+1,135,30.58,66.67,13,Gastroenterology,5,3.70
+1,135,30.58,66.67,6,Oncology,5,3.70
+1,135,30.58,66.67,14,Pulmonology,5,3.70
+1,135,30.58,66.67,9,Radiology,2,1.48
+2,275,42.53,68.00,0,"Χωρίς νοσηλεία",88,32.00
+2,275,42.53,68.00,2,Cardiology,19,6.91
+2,275,42.53,68.00,12,Nephrology,16,5.82
+2,275,42.53,68.00,13,Gastroenterology,15,5.45
+2,275,42.53,68.00,10,"Obstetrics and Gynecology",14,5.09
+2,275,42.53,68.00,1,"Emergency Department",13,4.73
+2,275,42.53,68.00,5,Pediatrics,13,4.73
+2,275,42.53,68.00,15,Endocrinology,12,4.36
+2,275,42.53,68.00,4,"Intensive Care Unit",12,4.36
+2,275,42.53,68.00,6,Oncology,12,4.36
+2,275,42.53,68.00,14,Pulmonology,12,4.36
+2,275,42.53,68.00,3,"General Surgery",11,4.00
+2,275,42.53,68.00,8,Neurology,11,4.00
+2,275,42.53,68.00,9,Radiology,10,3.64
+2,275,42.53,68.00,7,Orthopedics,9,3.27
+2,275,42.53,68.00,11,Psychiatry,8,2.91
+3,282,45.11,68.79,0,"Χωρίς νοσηλεία",88,31.21
+3,282,45.11,68.79,7,Orthopedics,22,7.80
+3,282,45.11,68.79,2,Cardiology,20,7.09
+3,282,45.11,68.79,1,"Emergency Department",16,5.67
+3,282,45.11,68.79,10,"Obstetrics and Gynecology",16,5.67
+3,282,45.11,68.79,11,Psychiatry,16,5.67
+3,282,45.11,68.79,3,"General Surgery",15,5.32
+3,282,45.11,68.79,14,Pulmonology,13,4.61
+3,282,45.11,68.79,13,Gastroenterology,12,4.26
+3,282,45.11,68.79,15,Endocrinology,11,3.90
+3,282,45.11,68.79,6,Oncology,10,3.55
+3,282,45.11,68.79,5,Pediatrics,10,3.55
+3,282,45.11,68.79,9,Radiology,10,3.55
+3,282,45.11,68.79,8,Neurology,9,3.19
+3,282,45.11,68.79,12,Nephrology,8,2.84
+3,282,45.11,68.79,4,"Intensive Care Unit",6,2.13
+4,182,61.87,73.63,0,"Χωρίς νοσηλεία",48,26.37
+4,182,61.87,73.63,2,Cardiology,14,7.69
+4,182,61.87,73.63,15,Endocrinology,14,7.69
+4,182,61.87,73.63,3,"General Surgery",13,7.14
+4,182,61.87,73.63,7,Orthopedics,12,6.59
+4,182,61.87,73.63,12,Nephrology,11,6.04
+4,182,61.87,73.63,6,Oncology,11,6.04
+4,182,61.87,73.63,8,Neurology,10,5.49
+4,182,61.87,73.63,1,"Emergency Department",9,4.95
+4,182,61.87,73.63,11,Psychiatry,8,4.40
+4,182,61.87,73.63,13,Gastroenterology,6,3.30
+4,182,61.87,73.63,10,"Obstetrics and Gynecology",6,3.30
+4,182,61.87,73.63,5,Pediatrics,6,3.30
+4,182,61.87,73.63,4,"Intensive Care Unit",5,2.75
+4,182,61.87,73.63,14,Pulmonology,5,2.75
+4,182,61.87,73.63,9,Radiology,4,2.20
+5,126,64.52,75.40,0,"Χωρίς νοσηλεία",31,24.60
+5,126,64.52,75.40,2,Cardiology,13,10.32
+5,126,64.52,75.40,10,"Obstetrics and Gynecology",11,8.73
+5,126,64.52,75.40,7,Orthopedics,9,7.14
+5,126,64.52,75.40,15,Endocrinology,8,6.35
+5,126,64.52,75.40,4,"Intensive Care Unit",8,6.35
+5,126,64.52,75.40,1,"Emergency Department",7,5.56
+5,126,64.52,75.40,8,Neurology,7,5.56
+5,126,64.52,75.40,13,Gastroenterology,6,4.76
+5,126,64.52,75.40,11,Psychiatry,6,4.76
+5,126,64.52,75.40,3,"General Surgery",5,3.97
+5,126,64.52,75.40,12,Nephrology,4,3.17
+5,126,64.52,75.40,9,Radiology,4,3.17
+5,126,64.52,75.40,5,Pediatrics,3,2.38
+5,126,64.52,75.40,6,Oncology,2,1.59
+5,126,64.52,75.40,14,Pulmonology,2,1.59

@@ -1,0 +1,4 @@
+substance_1_id,substance_1_name,substance_2_id,substance_2_name,frequency
+137,Acetylcysteine,651,Clonazepam,1
+137,Acetylcysteine,8535,Octreotide,1
+194,Aciclovir,9688,"Extractum Compositum (1:2) Ex: Helichrysi Inflorescentia, Matricariae Flore, Coriandri Fructu, Sambu",1
